@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
   "modelId": "nds-main-v01",
-  "modelVersion": "v01",
+  "modelVersion": "validation-01",
   "sourceFileName": "NDS_MAIN ARCHICAD_MC_pro urbiq.ifc",
   "sourceSha256": "402119c8131dc2c8e93113e90947c70466259e2d1db7adef5533a07b67a3aa47",
   "ifcSchema": "IFC4",
-  "generatedAtUtc": "2026-07-20T07:19:18.102410+00:00",
+  "generatedAtUtc": "2026-07-20T07:38:01.890408+00:00",
   "geometryFormat": "urbiq-ifc-json-geometry-v1",
   "geometryUrl": "geometry/geometry.json",
   "elementsUrl": "data/elements.csv",
