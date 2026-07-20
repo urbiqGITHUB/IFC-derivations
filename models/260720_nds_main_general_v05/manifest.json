@@ -1,0 +1,3236 @@
+{
+  "schemaVersion": "1.4",
+  "modelId": "nds-main-general-v05",
+  "modelVersion": "v05",
+  "sourceFileName": "NDS_MAIN ARCHICAD_MC_pro urbiq_obecnyexport.ifc",
+  "sourceSha256": "dcc0bdbe0e7cc3db0dc01be35b2574426515482bed3caadacbbed734e4f7609f",
+  "ifcSchema": "IFC2X3",
+  "generatedAtUtc": "2026-07-20T12:09:15.237627+00:00",
+  "geometryFormat": "urbiq-ifc-json-geometry-v1",
+  "geometryUrl": "geometry/geometry.json",
+  "elementsUrl": "data/elements.csv",
+  "propertiesUrl": "data/properties.csv",
+  "dataQualityUrl": "data/data_quality.csv",
+  "elementCount": 672,
+  "renderedElementCount": 522,
+  "propertyRecordCount": 98673,
+  "bounds": {
+    "min": [
+      -765878.119099,
+      -1024032.533692,
+      68.514554
+    ],
+    "max": [
+      -765292.375545,
+      -1023759.538359,
+      110.9
+    ]
+  },
+  "canonicalAttributeCoverage": {
+    "Function": 65.18,
+    "Block": 73.66,
+    "Status": 77.68,
+    "Phase": 65.18,
+    "BuildingId": 77.98,
+    "ArchicadId": 77.68,
+    "Storey": 77.68,
+    "StoreyCalculated": 65.18,
+    "ZPosition": 77.68
+  },
+  "archicadIdNormalization": {
+    "structuredFormat": "Letters.Number.Number",
+    "rawColumn": "ArchicadIdRaw",
+    "normalizedColumn": "ArchicadId",
+    "normalizationStatusColumn": "ArchicadIdNormalization",
+    "statusCounts": {
+      "PreservedUnstructured": 109,
+      "Missing": 150,
+      "ValidStructured": 405,
+      "CorrectedDelimiter": 8
+    },
+    "corrections": [
+      {
+        "raw": "K.1..2",
+        "normalized": "K.1.2",
+        "elementCount": 8
+      }
+    ]
+  },
+  "spatialInference": {
+    "enabledFor": [
+      "Block",
+      "Phase"
+    ],
+    "seedIfcClass": "IfcBuildingElementProxy",
+    "blockProxyNamePattern": "^[A-Z]$",
+    "phaseProxyNamePattern": "^(?:Etapa|Phase)\\s+.+$",
+    "minimumTargetXyOverlap": 0.5,
+    "maximumZGap": 6.0,
+    "ambiguousMatchesRemainNull": true
+  },
+  "calculatedStorey": {
+    "groupedBy": "ArchicadId",
+    "sourceElevation": "RenderedGeometry.WorldBounds.ZMin",
+    "levelClusteringTolerance": 1.25,
+    "lowestLevelPerArchicadIdIsOne": true,
+    "denseRanking": true,
+    "archicadIdDiagnostics": {
+      "A.3.1": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 102.0,
+            "minimumElevation": 102.0,
+            "maximumElevation": 102.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "A.3.2": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.0,
+            "minimumElevation": 97.0,
+            "maximumElevation": 97.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 100.0,
+            "minimumElevation": 100.0,
+            "maximumElevation": 100.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "A.3.3": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "A.3.4": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 85.5,
+            "minimumElevation": 85.5,
+            "maximumElevation": 85.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.5,
+            "minimumElevation": 88.5,
+            "maximumElevation": 88.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.5,
+            "minimumElevation": 91.5,
+            "maximumElevation": 91.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.5,
+            "minimumElevation": 94.5,
+            "maximumElevation": 94.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "A.3.5": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 85.5,
+            "minimumElevation": 85.5,
+            "maximumElevation": 85.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.5,
+            "minimumElevation": 88.5,
+            "maximumElevation": 88.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.5,
+            "minimumElevation": 91.5,
+            "maximumElevation": 91.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.5,
+            "minimumElevation": 94.5,
+            "maximumElevation": 94.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "A.3.6": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 98.9,
+            "minimumElevation": 98.9,
+            "maximumElevation": 98.9,
+            "itemCount": 1
+          }
+        ]
+      },
+      "A.3.7": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.45,
+            "minimumElevation": 88.45,
+            "maximumElevation": 88.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.45,
+            "minimumElevation": 91.45,
+            "maximumElevation": 91.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.45,
+            "minimumElevation": 94.45,
+            "maximumElevation": 94.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.45,
+            "minimumElevation": 97.45,
+            "maximumElevation": 97.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 101.0,
+            "minimumElevation": 101.0,
+            "maximumElevation": 101.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "A.3.8": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 101.0,
+            "minimumElevation": 101.0,
+            "maximumElevation": 101.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.1": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 102.0,
+            "minimumElevation": 102.0,
+            "maximumElevation": 102.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.10": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.5,
+            "minimumElevation": 90.5,
+            "maximumElevation": 90.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.5,
+            "minimumElevation": 93.5,
+            "maximumElevation": 93.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.11": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.0,
+            "minimumElevation": 97.0,
+            "maximumElevation": 97.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 100.0,
+            "minimumElevation": 100.0,
+            "maximumElevation": 100.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.12": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.0,
+            "minimumElevation": 97.0,
+            "maximumElevation": 97.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 100.0,
+            "minimumElevation": 100.0,
+            "maximumElevation": 100.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.2": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 95.5,
+            "minimumElevation": 95.5,
+            "maximumElevation": 95.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 98.5,
+            "minimumElevation": 98.5,
+            "maximumElevation": 98.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 101.5,
+            "minimumElevation": 101.5,
+            "maximumElevation": 101.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.3": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 102.0,
+            "minimumElevation": 102.0,
+            "maximumElevation": 102.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.4": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.5": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 101.0,
+            "minimumElevation": 101.0,
+            "maximumElevation": 101.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.6": {
+        "spaceCount": 1,
+        "levelCount": 1,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 100.5,
+            "minimumElevation": 100.5,
+            "maximumElevation": 100.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.7": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 95.5,
+            "minimumElevation": 95.5,
+            "maximumElevation": 95.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 98.5,
+            "minimumElevation": 98.5,
+            "maximumElevation": 98.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.8": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "B.3.9": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "C.3.1": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "C.3.2": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "C.3.3": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.5,
+            "minimumElevation": 90.5,
+            "maximumElevation": 90.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.5,
+            "minimumElevation": 93.5,
+            "maximumElevation": 93.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "C.3.4": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "C.3.5": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.0,
+            "minimumElevation": 97.0,
+            "maximumElevation": 97.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 100.0,
+            "minimumElevation": 100.0,
+            "maximumElevation": 100.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "C.3.6": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "C.3.7": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "D.3.1": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "D.3.2": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "D.3.3": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "D.3.4": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "D.3.5": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "D.3.6": {
+        "spaceCount": 9,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.75,
+            "minimumElevation": 88.5,
+            "maximumElevation": 89.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.75,
+            "minimumElevation": 91.5,
+            "maximumElevation": 92.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.75,
+            "minimumElevation": 94.5,
+            "maximumElevation": 95.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 97.75,
+            "minimumElevation": 97.5,
+            "maximumElevation": 98.0,
+            "itemCount": 2
+          }
+        ]
+      },
+      "D.3.7": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.5,
+            "minimumElevation": 90.5,
+            "maximumElevation": 90.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.5,
+            "minimumElevation": 93.5,
+            "maximumElevation": 93.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 96.5,
+            "minimumElevation": 96.5,
+            "maximumElevation": 96.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.1": {
+        "spaceCount": 8,
+        "levelCount": 7,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 101.0,
+            "minimumElevation": 101.0,
+            "maximumElevation": 101.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 103.9,
+            "minimumElevation": 103.9,
+            "maximumElevation": 103.9,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 107.4,
+            "minimumElevation": 107.4,
+            "maximumElevation": 107.4,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.10": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.45,
+            "minimumElevation": 88.45,
+            "maximumElevation": 88.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.45,
+            "minimumElevation": 91.45,
+            "maximumElevation": 91.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.45,
+            "minimumElevation": 94.45,
+            "maximumElevation": 94.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.45,
+            "minimumElevation": 97.45,
+            "maximumElevation": 97.45,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 100.45,
+            "minimumElevation": 100.45,
+            "maximumElevation": 100.45,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.2": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.0,
+            "minimumElevation": 97.0,
+            "maximumElevation": 97.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 100.0,
+            "minimumElevation": 100.0,
+            "maximumElevation": 100.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.3": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.4": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.5": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 82.0,
+            "minimumElevation": 82.0,
+            "maximumElevation": 82.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.6": {
+        "spaceCount": 3,
+        "levelCount": 3,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.7": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.8": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "E.3.9": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 97.0,
+            "minimumElevation": 97.0,
+            "maximumElevation": 97.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.1": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.13": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.0,
+            "minimumElevation": 81.0,
+            "maximumElevation": 81.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.14": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.0,
+            "minimumElevation": 81.0,
+            "maximumElevation": 81.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.15": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.2": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.3": {
+        "spaceCount": 3,
+        "levelCount": 3,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 82.0,
+            "minimumElevation": 82.0,
+            "maximumElevation": 82.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.4": {
+        "spaceCount": 3,
+        "levelCount": 3,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.5,
+            "minimumElevation": 81.5,
+            "maximumElevation": 81.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.5": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.5,
+            "minimumElevation": 81.5,
+            "maximumElevation": 81.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 90.5,
+            "minimumElevation": 90.5,
+            "maximumElevation": 90.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.6": {
+        "spaceCount": 3,
+        "levelCount": 3,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 82.0,
+            "minimumElevation": 82.0,
+            "maximumElevation": 82.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.7": {
+        "spaceCount": 3,
+        "levelCount": 3,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.5,
+            "minimumElevation": 81.5,
+            "maximumElevation": 81.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.8": {
+        "spaceCount": 3,
+        "levelCount": 3,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.0,
+            "minimumElevation": 81.0,
+            "maximumElevation": 81.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "F.2.9": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.0,
+            "minimumElevation": 81.0,
+            "maximumElevation": 81.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "G.1.1": {
+        "spaceCount": 7,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 4
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.5,
+            "minimumElevation": 90.5,
+            "maximumElevation": 90.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 94.5,
+            "minimumElevation": 94.5,
+            "maximumElevation": 94.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.1": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.10": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.2": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 95.5,
+            "minimumElevation": 95.5,
+            "maximumElevation": 95.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 98.4,
+            "minimumElevation": 98.4,
+            "maximumElevation": 98.4,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.3": {
+        "spaceCount": 11,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.5": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.7": {
+        "spaceCount": 7,
+        "levelCount": 7,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 82.5,
+            "minimumElevation": 82.5,
+            "maximumElevation": 82.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 85.5,
+            "minimumElevation": 85.5,
+            "maximumElevation": 85.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 88.5,
+            "minimumElevation": 88.5,
+            "maximumElevation": 88.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 91.5,
+            "minimumElevation": 91.5,
+            "maximumElevation": 91.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 94.5,
+            "minimumElevation": 94.5,
+            "maximumElevation": 94.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 97.5,
+            "minimumElevation": 97.5,
+            "maximumElevation": 97.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 100.5,
+            "minimumElevation": 100.5,
+            "maximumElevation": 100.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.8": {
+        "spaceCount": 8,
+        "levelCount": 8,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 82.35,
+            "minimumElevation": 82.35,
+            "maximumElevation": 82.35,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 85.35,
+            "minimumElevation": 85.35,
+            "maximumElevation": 85.35,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 88.35,
+            "minimumElevation": 88.35,
+            "maximumElevation": 88.35,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 91.35,
+            "minimumElevation": 91.35,
+            "maximumElevation": 91.35,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 94.35,
+            "minimumElevation": 94.35,
+            "maximumElevation": 94.35,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 97.35,
+            "minimumElevation": 97.35,
+            "maximumElevation": 97.35,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 100.35,
+            "minimumElevation": 100.35,
+            "maximumElevation": 100.35,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 8,
+            "representativeElevation": 103.35,
+            "minimumElevation": 103.35,
+            "maximumElevation": 103.35,
+            "itemCount": 1
+          }
+        ]
+      },
+      "H.1.9": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.1": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 80.5,
+            "minimumElevation": 80.5,
+            "maximumElevation": 80.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.10": {
+        "spaceCount": 5,
+        "levelCount": 5,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 80.5,
+            "minimumElevation": 80.5,
+            "maximumElevation": 80.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.2": {
+        "spaceCount": 4,
+        "levelCount": 4,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 81.0,
+            "minimumElevation": 81.0,
+            "maximumElevation": 81.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.3": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 80.0,
+            "minimumElevation": 80.0,
+            "maximumElevation": 80.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.4": {
+        "spaceCount": 7,
+        "levelCount": 7,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 80.0,
+            "minimumElevation": 80.0,
+            "maximumElevation": 80.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 83.0,
+            "minimumElevation": 83.0,
+            "maximumElevation": 83.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 86.0,
+            "minimumElevation": 86.0,
+            "maximumElevation": 86.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 89.0,
+            "minimumElevation": 89.0,
+            "maximumElevation": 89.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 92.0,
+            "minimumElevation": 92.0,
+            "maximumElevation": 92.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 95.0,
+            "minimumElevation": 95.0,
+            "maximumElevation": 95.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 98.0,
+            "minimumElevation": 98.0,
+            "maximumElevation": 98.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.6": {
+        "spaceCount": 7,
+        "levelCount": 7,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 77.5,
+            "minimumElevation": 77.5,
+            "maximumElevation": 77.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 80.5,
+            "minimumElevation": 80.5,
+            "maximumElevation": 80.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 92.5,
+            "minimumElevation": 92.5,
+            "maximumElevation": 92.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 95.5,
+            "minimumElevation": 95.5,
+            "maximumElevation": 95.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.7": {
+        "spaceCount": 7,
+        "levelCount": 7,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 77.7,
+            "minimumElevation": 77.7,
+            "maximumElevation": 77.7,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 80.7,
+            "minimumElevation": 80.7,
+            "maximumElevation": 80.7,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 83.7,
+            "minimumElevation": 83.7,
+            "maximumElevation": 83.7,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 86.7,
+            "minimumElevation": 86.7,
+            "maximumElevation": 86.7,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 89.7,
+            "minimumElevation": 89.7,
+            "maximumElevation": 89.7,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 92.7,
+            "minimumElevation": 92.7,
+            "maximumElevation": 92.7,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 95.7,
+            "minimumElevation": 95.7,
+            "maximumElevation": 95.7,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.8": {
+        "spaceCount": 7,
+        "levelCount": 7,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 79.0,
+            "minimumElevation": 79.0,
+            "maximumElevation": 79.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 82.0,
+            "minimumElevation": 82.0,
+            "maximumElevation": 82.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 85.0,
+            "minimumElevation": 85.0,
+            "maximumElevation": 85.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 88.0,
+            "minimumElevation": 88.0,
+            "maximumElevation": 88.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 91.0,
+            "minimumElevation": 91.0,
+            "maximumElevation": 91.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 94.0,
+            "minimumElevation": 94.0,
+            "maximumElevation": 94.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 97.0,
+            "minimumElevation": 97.0,
+            "maximumElevation": 97.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "I.1.9": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 80.0,
+            "minimumElevation": 80.0,
+            "maximumElevation": 80.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 83.9,
+            "minimumElevation": 83.9,
+            "maximumElevation": 83.9,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 86.9,
+            "minimumElevation": 86.9,
+            "maximumElevation": 86.9,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 89.9,
+            "minimumElevation": 89.9,
+            "maximumElevation": 89.9,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 92.9,
+            "minimumElevation": 92.9,
+            "maximumElevation": 92.9,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 95.9,
+            "minimumElevation": 95.9,
+            "maximumElevation": 95.9,
+            "itemCount": 1
+          }
+        ]
+      },
+      "J.1.1": {
+        "spaceCount": 25,
+        "levelCount": 10,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 80.0,
+            "minimumElevation": 80.0,
+            "maximumElevation": 80.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 84.0,
+            "minimumElevation": 84.0,
+            "maximumElevation": 84.0,
+            "itemCount": 5
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 87.0,
+            "minimumElevation": 87.0,
+            "maximumElevation": 87.0,
+            "itemCount": 5
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 90.0,
+            "minimumElevation": 90.0,
+            "maximumElevation": 90.0,
+            "itemCount": 4
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 93.0,
+            "minimumElevation": 93.0,
+            "maximumElevation": 93.0,
+            "itemCount": 3
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 96.0,
+            "minimumElevation": 96.0,
+            "maximumElevation": 96.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 99.0,
+            "minimumElevation": 99.0,
+            "maximumElevation": 99.0,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 8,
+            "representativeElevation": 102.0,
+            "minimumElevation": 102.0,
+            "maximumElevation": 102.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 9,
+            "representativeElevation": 105.0,
+            "minimumElevation": 105.0,
+            "maximumElevation": 105.0,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 10,
+            "representativeElevation": 108.0,
+            "minimumElevation": 108.0,
+            "maximumElevation": 108.0,
+            "itemCount": 1
+          }
+        ]
+      },
+      "K.1.1": {
+        "spaceCount": 6,
+        "levelCount": 6,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 78.5,
+            "minimumElevation": 78.5,
+            "maximumElevation": 78.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 81.5,
+            "minimumElevation": 81.5,
+            "maximumElevation": 81.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 90.5,
+            "minimumElevation": 90.5,
+            "maximumElevation": 90.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 93.5,
+            "minimumElevation": 93.5,
+            "maximumElevation": 93.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "K.1.2": {
+        "spaceCount": 8,
+        "levelCount": 8,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 78.5,
+            "minimumElevation": 78.5,
+            "maximumElevation": 78.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 81.5,
+            "minimumElevation": 81.5,
+            "maximumElevation": 81.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 84.5,
+            "minimumElevation": 84.5,
+            "maximumElevation": 84.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 87.5,
+            "minimumElevation": 87.5,
+            "maximumElevation": 87.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 90.5,
+            "minimumElevation": 90.5,
+            "maximumElevation": 90.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 93.5,
+            "minimumElevation": 93.5,
+            "maximumElevation": 93.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 96.5,
+            "minimumElevation": 96.5,
+            "maximumElevation": 96.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 8,
+            "representativeElevation": 99.5,
+            "minimumElevation": 99.5,
+            "maximumElevation": 99.5,
+            "itemCount": 1
+          }
+        ]
+      },
+      "K.1.3": {
+        "spaceCount": 8,
+        "levelCount": 7,
+        "levels": [
+          {
+            "storeyCalculated": 1,
+            "representativeElevation": 77.5,
+            "minimumElevation": 77.5,
+            "maximumElevation": 77.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 2,
+            "representativeElevation": 80.5,
+            "minimumElevation": 80.5,
+            "maximumElevation": 80.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 3,
+            "representativeElevation": 83.5,
+            "minimumElevation": 83.5,
+            "maximumElevation": 83.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 4,
+            "representativeElevation": 86.5,
+            "minimumElevation": 86.5,
+            "maximumElevation": 86.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 5,
+            "representativeElevation": 89.5,
+            "minimumElevation": 89.5,
+            "maximumElevation": 89.5,
+            "itemCount": 1
+          },
+          {
+            "storeyCalculated": 6,
+            "representativeElevation": 93.0,
+            "minimumElevation": 92.5,
+            "maximumElevation": 93.5,
+            "itemCount": 2
+          },
+          {
+            "storeyCalculated": 7,
+            "representativeElevation": 95.5,
+            "minimumElevation": 95.5,
+            "maximumElevation": 95.5,
+            "itemCount": 1
+          }
+        ]
+      }
+    }
+  }
+}
