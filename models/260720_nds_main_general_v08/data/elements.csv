@@ -1,0 +1,673 @@
+﻿ElementKey,ModelId,GlobalId,ExpressId,IfcClass,Name,Description,ObjectType,PredefinedType,TypeName,Function,Block,Status,Phase,BuildingId,BuildingName,ArchicadId,Storey,StoreyCalculated,Materials,HasRepresentation
+nds-main-general-v08|15R2xC1i5CVOPBg_r3VJyb,nds-main-general-v08,15R2xC1i5CVOPBg_r3VJyb,2678,IfcBuildingElementProxy,H,,,,DŘEVO,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,1,DŘEVO,True
+nds-main-general-v08|28Mt1DMdPCbOr$2IatGuQS,nds-main-general-v08,28Mt1DMdPCbOr$2IatGuQS,2710,IfcBuildingElementProxy,I,,,,DŘEVO,RETAIL,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,1,DŘEVO,True
+nds-main-general-v08|0hJc5rDPjDZf2_sFJWyH6D,nds-main-general-v08,0hJc5rDPjDZf2_sFJWyH6D,2707,IfcBuildingElementProxy,E,,,,DŘEVO,RETAIL,E,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,1,DŘEVO,True
+nds-main-general-v08|2hsgaBOvbDoP$BSWaQXw2X,nds-main-general-v08,2hsgaBOvbDoP$BSWaQXw2X,2731,IfcBuildingElementProxy,Etapa 1,,,,DŘEVO,RETAIL,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,Etapa 1,0. Story,1,DŘEVO,True
+nds-main-general-v08|00F23UPWX53vKEfL4fTQXq,nds-main-general-v08,00F23UPWX53vKEfL4fTQXq,2737,IfcBuildingElementProxy,E,,,,DŘEVO,VZDĚLÁVÁNÍ A KULTURA,E,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,1,DŘEVO,True
+nds-main-general-v08|3pElXha1j3OutoATt5A9vK,nds-main-general-v08,3pElXha1j3OutoATt5A9vK,2767,IfcBuildingElementProxy,F,,,,DŘEVO,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,1,DŘEVO,True
+nds-main-general-v08|0B3pm_5GHBbxi1t7hjliUV,nds-main-general-v08,0B3pm_5GHBbxi1t7hjliUV,2773,IfcBuildingElementProxy,E,,,,DŘEVO,BYDLENÍ,E,New,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,1,DŘEVO,True
+nds-main-general-v08|1EgasiXh5EJwIVxzfy9U0k,nds-main-general-v08,1EgasiXh5EJwIVxzfy9U0k,2776,IfcBuildingElementProxy,E,,,,DŘEVO,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,1,DŘEVO,True
+nds-main-general-v08|1uTldYPBX2u8rM3KR8kaUY,nds-main-general-v08,1uTldYPBX2u8rM3KR8kaUY,2785,IfcBuildingElementProxy,B,,,,DŘEVO,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,1,DŘEVO,True
+nds-main-general-v08|0PIJPuiRvC9e23BljAzBOL,nds-main-general-v08,0PIJPuiRvC9e23BljAzBOL,2791,IfcBuildingElementProxy,E,,,,DŘEVO,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,1,DŘEVO,True
+nds-main-general-v08|176e9AtSXDRwkAVCbhjGna,nds-main-general-v08,176e9AtSXDRwkAVCbhjGna,2809,IfcBuildingElementProxy,Etapa 2,,,,DŘEVO,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,Etapa 2,0. Story,1,DŘEVO,True
+nds-main-general-v08|0a0fURQAXCIPluH4Lr_LIg,nds-main-general-v08,0a0fURQAXCIPluH4Lr_LIg,2827,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,5,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1NtvSZ7dnBRPUPMU9l7GaU,nds-main-general-v08,1NtvSZ7dnBRPUPMU9l7GaU,2832,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,5,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0WOYOtvaT5jgZcRO3Vf38l,nds-main-general-v08,0WOYOtvaT5jgZcRO3Vf38l,2835,IfcBuildingElementProxy,J,,,,GENERIC - STRUCTURAL,,J,New,,00tMo7QcxqWdIGvc4sMN2A,Building,J,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0JVusEp7vCzA7r3MGEOq_7,nds-main-general-v08,0JVusEp7vCzA7r3MGEOq_7,2909,IfcBuildingElementProxy,E,,,,DŘEVO,BYDLENÍ,E,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,1,DŘEVO,True
+nds-main-general-v08|0BHcUOU4nDhfMWUyM3pJMV,nds-main-general-v08,0BHcUOU4nDhfMWUyM3pJMV,3188,IfcBuildingElementProxy,K,,,,DŘEVO,RETAIL,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K,0. Story,1,DŘEVO,True
+nds-main-general-v08|1iv$FuXp5CtvckYJoW4Ik$,nds-main-general-v08,1iv$FuXp5CtvckYJoW4Ik$,3249,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0n5zDNi5vDLuxgMzyu$gcE,nds-main-general-v08,0n5zDNi5vDLuxgMzyu$gcE,3287,IfcBuildingElementProxy,C,,,,DŘEVO,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,1,DŘEVO,True
+nds-main-general-v08|2kAB4o9dL0vOhe_yPKYiqk,nds-main-general-v08,2kAB4o9dL0vOhe_yPKYiqk,3296,IfcBuildingElementProxy,D,,,,DŘEVO,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,1,DŘEVO,True
+nds-main-general-v08|1VvOAgDlnBTxZJdpYXKfY8,nds-main-general-v08,1VvOAgDlnBTxZJdpYXKfY8,3456,IfcBuildingElementProxy,G,,,,GENERIC - STRUCTURAL,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G,0. Story,3,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0zXd_OmV98jPctsFH3RuI9,nds-main-general-v08,0zXd_OmV98jPctsFH3RuI9,3583,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2v4rrCJXfCEgIpvlPYXdub,nds-main-general-v08,2v4rrCJXfCEgIpvlPYXdub,3580,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|35_O9ed758sAF1I1ZtMcDk,nds-main-general-v08,35_O9ed758sAF1I1ZtMcDk,3575,IfcBuildingElementProxy,H,,,,Glass,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,Glass,True
+nds-main-general-v08|06YvBmqdD0DwUXuMLkhmWm,nds-main-general-v08,06YvBmqdD0DwUXuMLkhmWm,3586,IfcBuildingElementProxy,H,,,,GENERIC - STRUCTURAL,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3OMUgyuX14oRMcbjoPR7c3,nds-main-general-v08,3OMUgyuX14oRMcbjoPR7c3,3589,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|012FEGLqH2uw$UIC_Q5sZn,nds-main-general-v08,012FEGLqH2uw$UIC_Q5sZn,3595,IfcBuildingElementProxy,H,,,,GENERIC - STRUCTURAL,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|37_lRnn4D6Sv2jAM$Slaxy,nds-main-general-v08,37_lRnn4D6Sv2jAM$Slaxy,3610,IfcBuildingElementProxy,K,,,,GENERIC - STRUCTURAL,,K,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,K,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0LvOw9kgn9CAJxOSZ2a$OY,nds-main-general-v08,0LvOw9kgn9CAJxOSZ2a$OY,3607,IfcBuildingElementProxy,H,,,,Glass,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,Glass,True
+nds-main-general-v08|1wibo47MP6WxWJSXDKOgTu,nds-main-general-v08,1wibo47MP6WxWJSXDKOgTu,3599,IfcBuildingElementProxy,J,,,,GENERIC - STRUCTURAL,,J,New,,00tMo7QcxqWdIGvc4sMN2A,Building,J,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1hYDURxm1BZPZOvCt77z_l,nds-main-general-v08,1hYDURxm1BZPZOvCt77z_l,3596,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3Row_Sr5PCuApOo0tu8bs1,nds-main-general-v08,3Row_Sr5PCuApOo0tu8bs1,3613,IfcBuildingElementProxy,J,,,,GENERIC - STRUCTURAL,,J,New,,00tMo7QcxqWdIGvc4sMN2A,Building,J,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1h8K9ED5b0svHLFQLmnMEA,nds-main-general-v08,1h8K9ED5b0svHLFQLmnMEA,3630,IfcBuildingElementProxy,I,,,,Glass,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,Glass,True
+nds-main-general-v08|1wP20oTBL5LfOo8HRG4hyK,nds-main-general-v08,1wP20oTBL5LfOo8HRG4hyK,3629,IfcBuildingElementProxy,I,,,,GENERIC - STRUCTURAL,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2EnmISiUPFtvctWM_Trtex,nds-main-general-v08,2EnmISiUPFtvctWM_Trtex,3626,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2YeofbbZLCCA0rUbGmLQ$H,nds-main-general-v08,2YeofbbZLCCA0rUbGmLQ$H,3623,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0jLBvDucXE0urRlcVHIVGW,nds-main-general-v08,0jLBvDucXE0urRlcVHIVGW,3620,IfcBuildingElementProxy,J,,,,GENERIC - STRUCTURAL,,J,New,,00tMo7QcxqWdIGvc4sMN2A,Building,J,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3l3DgCfjv2QwqrrrHF5pt7,nds-main-general-v08,3l3DgCfjv2QwqrrrHF5pt7,3619,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0SbZZ6DvX3CxmSvfr27n8d,nds-main-general-v08,0SbZZ6DvX3CxmSvfr27n8d,3646,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1DIrEH50jCAeNI5c3FCtpP,nds-main-general-v08,1DIrEH50jCAeNI5c3FCtpP,3643,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2Gzf93Eff7aQS4NCBJuxdF,nds-main-general-v08,2Gzf93Eff7aQS4NCBJuxdF,3641,IfcBuildingElementProxy,I,,,,Glass,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,Glass,True
+nds-main-general-v08|2SIIB0Zp5C2xpeLGU24WNu,nds-main-general-v08,2SIIB0Zp5C2xpeLGU24WNu,3637,IfcBuildingElementProxy,I,,,,GENERIC - STRUCTURAL,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3FyIdw_ob6sfB$e1TnIXtz,nds-main-general-v08,3FyIdw_ob6sfB$e1TnIXtz,3649,IfcBuildingElementProxy,E,,,,Glass,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,7,Glass,True
+nds-main-general-v08|0DOgyNH$fEv9U$ZWl88W6y,nds-main-general-v08,0DOgyNH$fEv9U$ZWl88W6y,3655,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,6,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1zxxMyofX9IRSrzqY9bbmG,nds-main-general-v08,1zxxMyofX9IRSrzqY9bbmG,3671,IfcBuildingElementProxy,A,,,,DŘEVO,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,1,DŘEVO,True
+nds-main-general-v08|2YQnFlOpT1m8QGSY1yzytr,nds-main-general-v08,2YQnFlOpT1m8QGSY1yzytr,3709,IfcBuildingElementProxy,Etapa 3,,,,DŘEVO,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,Etapa 3,0. Story,1,DŘEVO,True
+nds-main-general-v08|0GzjjrsaLEg8tkaLE92U9M,nds-main-general-v08,0GzjjrsaLEg8tkaLE92U9M,3721,IfcBuildingElementProxy,E,,,,DŘEVO,RETAIL,E,New,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,1,DŘEVO,True
+nds-main-general-v08|2YBdX0EkT1R8a5B1HY$pkM,nds-main-general-v08,2YBdX0EkT1R8a5B1HY$pkM,3955,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,5,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0Nr1KOZgv2JuG7kkR9aPT3,nds-main-general-v08,0Nr1KOZgv2JuG7kkR9aPT3,3982,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2C$vgyNxn7HQT21o3VExri,nds-main-general-v08,2C$vgyNxn7HQT21o3VExri,3979,IfcBuildingElementProxy,H,,,,Glass,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,Glass,True
+nds-main-general-v08|1K4pIuq7P6PAVg00LBBDHz,nds-main-general-v08,1K4pIuq7P6PAVg00LBBDHz,3976,IfcBuildingElementProxy,K,,,,GENERIC - STRUCTURAL,,K,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,K,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2BRF_msHz2uR3m6_oVYcjf,nds-main-general-v08,2BRF_msHz2uR3m6_oVYcjf,3973,IfcBuildingElementProxy,I,,,,GENERIC - STRUCTURAL,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2K4auIKe5EABPcul7lxkGC,nds-main-general-v08,2K4auIKe5EABPcul7lxkGC,3986,IfcBuildingElementProxy,B,,,,Glass,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,Glass,True
+nds-main-general-v08|0scixj4zzDJOXDN8lAZTHw,nds-main-general-v08,0scixj4zzDJOXDN8lAZTHw,3989,IfcBuildingElementProxy,D,,,,Glass,,D,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,,Glass,True
+nds-main-general-v08|0$KuAOhgT8sPyjhtXucp3d,nds-main-general-v08,0$KuAOhgT8sPyjhtXucp3d,3991,IfcBuildingElementProxy,D,,,,Glass,,D,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,,Glass,True
+nds-main-general-v08|0rZK6gj89ChxTc18hfCkAl,nds-main-general-v08,0rZK6gj89ChxTc18hfCkAl,3994,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2nCn542ePAbfTopyj4_XW4,nds-main-general-v08,2nCn542ePAbfTopyj4_XW4,3997,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1S6X9KeozAix5c2vhM$n2p,nds-main-general-v08,1S6X9KeozAix5c2vhM$n2p,3998,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2sDi_vpzX7CgC3dO0DJ6sP,nds-main-general-v08,2sDi_vpzX7CgC3dO0DJ6sP,4003,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0Yn9VpxQf3DebFTV1ZHYpA,nds-main-general-v08,0Yn9VpxQf3DebFTV1ZHYpA,4006,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0f7N6n_fD4jv6QlXHSmDKP,nds-main-general-v08,0f7N6n_fD4jv6QlXHSmDKP,4010,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3B_gSvrI5808T9VeCkXoNP,nds-main-general-v08,3B_gSvrI5808T9VeCkXoNP,4013,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0DhK_TbE51AhCE$UzLdsIg,nds-main-general-v08,0DhK_TbE51AhCE$UzLdsIg,4017,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3CHK_WigLFjBIBbX_mQYA1,nds-main-general-v08,3CHK_WigLFjBIBbX_mQYA1,4016,IfcBuildingElementProxy,K,,,,GENERIC - STRUCTURAL,,K,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,K,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3bdfOvriPB7hs6B7MWw$ES,nds-main-general-v08,3bdfOvriPB7hs6B7MWw$ES,4022,IfcBuildingElementProxy,D,,,,GENERIC - STRUCTURAL,,D,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0E$HpDBTDBcunW_E_Cd7L8,nds-main-general-v08,0E$HpDBTDBcunW_E_Cd7L8,4027,IfcBuildingElementProxy,A,,,,Glass,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,Glass,True
+nds-main-general-v08|1JXfeHHHL7VAQ2te_jWIFE,nds-main-general-v08,1JXfeHHHL7VAQ2te_jWIFE,4030,IfcBuildingElementProxy,B,,,,Glass,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,Glass,True
+nds-main-general-v08|39edv35T14kgBp2kC5c8vR,nds-main-general-v08,39edv35T14kgBp2kC5c8vR,4043,IfcBuildingElementProxy,A,,,,GENERIC - STRUCTURAL,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1$aGJXswj6N9ykG4OfObB5,nds-main-general-v08,1$aGJXswj6N9ykG4OfObB5,4039,IfcBuildingElementProxy,I,,,,GENERIC - STRUCTURAL,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1C1ceZ93f9qf4v$9o6n_iq,nds-main-general-v08,1C1ceZ93f9qf4v$9o6n_iq,4042,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2qGpg0XgD5SuMRJBROXuFr,nds-main-general-v08,2qGpg0XgD5SuMRJBROXuFr,4036,IfcBuildingElementProxy,B,,,,Glass,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,Glass,True
+nds-main-general-v08|0dXlnCY3P9FwECtDTHgUyN,nds-main-general-v08,0dXlnCY3P9FwECtDTHgUyN,4033,IfcBuildingElementProxy,D,,,,Glass,,D,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,,Glass,True
+nds-main-general-v08|3VRcWHvw18SQX7enGxdJbE,nds-main-general-v08,3VRcWHvw18SQX7enGxdJbE,4049,IfcBuildingElementProxy,A,,,,GENERIC - STRUCTURAL,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2sen_Cz_zE3ABq_MSAwoHZ,nds-main-general-v08,2sen_Cz_zE3ABq_MSAwoHZ,4046,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0KGFMYo1vBsAkOda0hjyfU,nds-main-general-v08,0KGFMYo1vBsAkOda0hjyfU,4055,IfcBuildingElementProxy,A,,,,GENERIC - STRUCTURAL,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1w6VQhWwLBRe1jpuk5bmQW,nds-main-general-v08,1w6VQhWwLBRe1jpuk5bmQW,4052,IfcBuildingElementProxy,A,,,,GENERIC - STRUCTURAL,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0oXCrUeDHD9ATGxFJQRwwT,nds-main-general-v08,0oXCrUeDHD9ATGxFJQRwwT,4058,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0BW0VqYMf3AP4Olp21M46U,nds-main-general-v08,0BW0VqYMf3AP4Olp21M46U,4061,IfcBuildingElementProxy,A,,,,GENERIC - STRUCTURAL,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|08LHoKirD00Q7L6Zy1dVAM,nds-main-general-v08,08LHoKirD00Q7L6Zy1dVAM,4064,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3mM0LZKYX55eowrGSfjuTA,nds-main-general-v08,3mM0LZKYX55eowrGSfjuTA,4073,IfcBuildingElementProxy,A,,,,GENERIC - STRUCTURAL,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0$iHuxZbv2pAmB$4LT_lHN,nds-main-general-v08,0$iHuxZbv2pAmB$4LT_lHN,4067,IfcBuildingElementProxy,E,,,,GENERIC - STRUCTURAL,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1fNU4gz6b8Cg9cbk_LLRe4,nds-main-general-v08,1fNU4gz6b8Cg9cbk_LLRe4,4074,IfcBuildingElementProxy,D,,,,GENERIC - STRUCTURAL,,D,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0Yy5vFO2fCkeLFdn1moOBJ,nds-main-general-v08,0Yy5vFO2fCkeLFdn1moOBJ,4070,IfcBuildingElementProxy,A,,,,GENERIC - STRUCTURAL,,A,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,A,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0NGK03LqvCmOaxGvjcuJeq,nds-main-general-v08,0NGK03LqvCmOaxGvjcuJeq,4084,IfcBuildingElementProxy,B,,,,GENERIC - STRUCTURAL,,B,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,B,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2w6QxVJgf7eReIHDAYnzb0,nds-main-general-v08,2w6QxVJgf7eReIHDAYnzb0,4075,IfcBuildingElementProxy,D,,,,GENERIC - STRUCTURAL,,D,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2Z42fA5pbEQOCHg0FnBpM2,nds-main-general-v08,2Z42fA5pbEQOCHg0FnBpM2,4087,IfcBuildingElementProxy,D,,,,GENERIC - STRUCTURAL,,D,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,D,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2gliZQU211IOKmIZUsW0rP,nds-main-general-v08,2gliZQU211IOKmIZUsW0rP,4088,IfcBuildingElementProxy,E,,,,Glass,,E,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,Glass,True
+nds-main-general-v08|10M8bBG_r3U9Rl$sCpS4nl,nds-main-general-v08,10M8bBG_r3U9Rl$sCpS4nl,4093,IfcBuildingElementProxy,C,,,,GENERIC - STRUCTURAL,,C,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3JJOQ5LyP5UhRVBAlKpu3J,nds-main-general-v08,3JJOQ5LyP5UhRVBAlKpu3J,4096,IfcBuildingElementProxy,C,,,,GENERIC - STRUCTURAL,,C,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2vTscDYnzE4xDLozxfEj2j,nds-main-general-v08,2vTscDYnzE4xDLozxfEj2j,4097,IfcBuildingElementProxy,C,,,,GENERIC - STRUCTURAL,,C,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1gAYUnl516shY5hoz5ZsRv,nds-main-general-v08,1gAYUnl516shY5hoz5ZsRv,4103,IfcBuildingElementProxy,C,,,,GENERIC - STRUCTURAL,,C,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0F07o4LZr8NRZ7RpKyFcol,nds-main-general-v08,0F07o4LZr8NRZ7RpKyFcol,4106,IfcBuildingElementProxy,C,,,,GENERIC - STRUCTURAL,,C,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0e76O1KG59F8dp8JP95Vc0,nds-main-general-v08,0e76O1KG59F8dp8JP95Vc0,4109,IfcBuildingElementProxy,C,,,,GENERIC - STRUCTURAL,,C,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1dZ7H5lEHEz9nKaxgo$$z6,nds-main-general-v08,1dZ7H5lEHEz9nKaxgo$$z6,4112,IfcBuildingElementProxy,I,,,,GENERIC - STRUCTURAL,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3BfXcnynTFPf6H4_k6Aomf,nds-main-general-v08,3BfXcnynTFPf6H4_k6Aomf,4115,IfcBuildingElementProxy,I,,,,GENERIC - STRUCTURAL,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0WLCLn4Ij6wOoet4qw4Tqo,nds-main-general-v08,0WLCLn4Ij6wOoet4qw4Tqo,4100,IfcBuildingElementProxy,C,,,,GENERIC - STRUCTURAL,,C,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,C,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|30KtFn_4f7QAfclAX4q9hE,nds-main-general-v08,30KtFn_4f7QAfclAX4q9hE,4178,IfcBuildingElementProxy,J,,,,DŘEVO,INV,J,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J,0. Story,1,DŘEVO,True
+nds-main-general-v08|3eOmHy6g9DcwBN8ZPKKLRO,nds-main-general-v08,3eOmHy6g9DcwBN8ZPKKLRO,4181,IfcBuildingElementProxy,E,,,,DŘEVO,,E,New,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,DŘEVO,True
+nds-main-general-v08|03Sd9u5NTBDPd3UREZDIW$,nds-main-general-v08,03Sd9u5NTBDPd3UREZDIW$,4196,IfcBuildingElementProxy,H,,,,Glass,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,Glass,True
+nds-main-general-v08|0S0oJR_6b4kepnQ$vrZWHH,nds-main-general-v08,0S0oJR_6b4kepnQ$vrZWHH,4192,IfcBuildingElementProxy,J,,,,GENERIC - STRUCTURAL,,J,New,,00tMo7QcxqWdIGvc4sMN2A,Building,J,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|0ZFvk_QiX9e9eujMoyAWoA,nds-main-general-v08,0ZFvk_QiX9e9eujMoyAWoA,4189,IfcBuildingElementProxy,G,,,,GENERIC - STRUCTURAL,,G,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,G,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1LVDiAKdz3JPW4n2J3nrza,nds-main-general-v08,1LVDiAKdz3JPW4n2J3nrza,4184,IfcBuildingElementProxy,G,,,,GENERIC - STRUCTURAL,,G,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,G,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|3YWC6MvoHE89oSDyTXImhN,nds-main-general-v08,3YWC6MvoHE89oSDyTXImhN,4203,IfcBuildingElementProxy,F,,,,Glass,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,Glass,True
+nds-main-general-v08|0VeYlSYMr12fzowUPFD8qh,nds-main-general-v08,0VeYlSYMr12fzowUPFD8qh,4202,IfcBuildingElementProxy,H,,,,Glass,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,Glass,True
+nds-main-general-v08|2GwQ3SlFP2wBFnbtBB1$Qo,nds-main-general-v08,2GwQ3SlFP2wBFnbtBB1$Qo,4201,IfcBuildingElementProxy,K,,,,GENERIC - STRUCTURAL,,K,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,K,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|1K8Ie5IGfFeQSgVJokdVi_,nds-main-general-v08,1K8Ie5IGfFeQSgVJokdVi_,4209,IfcBuildingElementProxy,I,,,,Glass,,I,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,I,0. Story,,Glass,True
+nds-main-general-v08|0HzQwb35P1gf_PvjifGIUT,nds-main-general-v08,0HzQwb35P1gf_PvjifGIUT,4219,IfcBuildingElementProxy,E,,,,DŘEVO,,E,New,,00tMo7QcxqWdIGvc4sMN2A,Building,E,0. Story,,DŘEVO,True
+nds-main-general-v08|0fMiIEC5X8oQ2XK3704uLP,nds-main-general-v08,0fMiIEC5X8oQ2XK3704uLP,4222,IfcBuildingElementProxy,H,,,,Glass,,H,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,H,0. Story,,Glass,True
+nds-main-general-v08|2whLEH_mH0CeAYvpF1jd1u,nds-main-general-v08,2whLEH_mH0CeAYvpF1jd1u,4216,IfcBuildingElementProxy,F,,,,GENERIC - STRUCTURAL,,F,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,F,0. Story,,GENERIC - STRUCTURAL,True
+nds-main-general-v08|2idhqWvE91sxFlfY_XJ78n,nds-main-general-v08,2idhqWvE91sxFlfY_XJ78n,4215,IfcBuildingElementProxy,G,,,,Zemina - Rostlý terén,,G,Existing,,00tMo7QcxqWdIGvc4sMN2A,Building,G,0. Story,,Zemina - Rostlý terén,True
+nds-main-general-v08|2UN2MAEyIzCKzicd3LxmnK,nds-main-general-v08,2UN2MAEyIzCKzicd3LxmnK,17330,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2Nj2F7Ej3sCY7ijpM09te6,nds-main-general-v08,2Nj2F7Ej3sCY7ijpM09te6,17543,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3TUMJV51JscpOBJ8VqQuVq,nds-main-general-v08,3TUMJV51JscpOBJ8VqQuVq,17549,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0B596MwdmCLd3FpZE_Jtl$,nds-main-general-v08,0B596MwdmCLd3FpZE_Jtl$,17547,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3vQ6TO38DT6bOh6zad5Qim,nds-main-general-v08,3vQ6TO38DT6bOh6zad5Qim,17634,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3X2W72YDda5o1aTMs1wUCc,nds-main-general-v08,3X2W72YDda5o1aTMs1wUCc,17688,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|27VKDusL36UX8MjUR6nu2_,nds-main-general-v08,27VKDusL36UX8MjUR6nu2_,17713,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0BHiZ4axWV$H0yZLlZJut3,nds-main-general-v08,0BHiZ4axWV$H0yZLlZJut3,17800,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3dzskfYUg3bVjVq5DfoGwn,nds-main-general-v08,3dzskfYUg3bVjVq5DfoGwn,17798,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1PnIv$zm18ZKo5YWHcA4SA,nds-main-general-v08,1PnIv$zm18ZKo5YWHcA4SA,17938,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2iys6vRW3MY1OFQesvbx9q,nds-main-general-v08,2iys6vRW3MY1OFQesvbx9q,17966,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3SChDCGOjs23D6PFd4gUEh,nds-main-general-v08,3SChDCGOjs23D6PFd4gUEh,18028,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2ZSQaNBj8Jmgi4YzqWZZd6,nds-main-general-v08,2ZSQaNBj8Jmgi4YzqWZZd6,18030,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1y1rg_D4bMVuLCb5xVprew,nds-main-general-v08,1y1rg_D4bMVuLCb5xVprew,18032,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1taGch1AXkJ4iA3BPwpfBs,nds-main-general-v08,1taGch1AXkJ4iA3BPwpfBs,18043,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2zHcz2kEpnbSsVcpLmsuzP,nds-main-general-v08,2zHcz2kEpnbSsVcpLmsuzP,18047,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0fJ_lnw65fYY2VsXsWGAj4,nds-main-general-v08,0fJ_lnw65fYY2VsXsWGAj4,18049,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1iQn1xQfUMCl5D0Jn6l_A6,nds-main-general-v08,1iQn1xQfUMCl5D0Jn6l_A6,18051,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0d0KP2j8YMwjaf8QyIJsFH,nds-main-general-v08,0d0KP2j8YMwjaf8QyIJsFH,18090,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|29xQ5XBGsxl1Qc$NF0L6WI,nds-main-general-v08,29xQ5XBGsxl1Qc$NF0L6WI,18231,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1wXzfjc3s$3uI8NlF3Q$Qy,nds-main-general-v08,1wXzfjc3s$3uI8NlF3Q$Qy,18335,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0gvgUrtyYap5lJtOQ$fmyy,nds-main-general-v08,0gvgUrtyYap5lJtOQ$fmyy,18403,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|203PF2cyoEQbm8ChuU7ftN,nds-main-general-v08,203PF2cyoEQbm8ChuU7ftN,18462,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2mklWKPWkgiVfCiLlrlI2u,nds-main-general-v08,2mklWKPWkgiVfCiLlrlI2u,18637,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|07$ELFVomnikFMuN$3Phu3,nds-main-general-v08,07$ELFVomnikFMuN$3Phu3,18639,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1sJ3uYPDL8T6YSMQAOrm31,nds-main-general-v08,1sJ3uYPDL8T6YSMQAOrm31,18642,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2xKaBFKWnT2SNdqBq156RP,nds-main-general-v08,2xKaBFKWnT2SNdqBq156RP,18773,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3TeSLqdiAmn4smVylRUTIZ,nds-main-general-v08,3TeSLqdiAmn4smVylRUTIZ,18775,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1p3iahfc4exBE2GiYOzZpk,nds-main-general-v08,1p3iahfc4exBE2GiYOzZpk,18825,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|27ZZDJja4tCFh7N4gPvPbp,nds-main-general-v08,27ZZDJja4tCFh7N4gPvPbp,18870,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0umAVgPHQ7miKOZissTzxV,nds-main-general-v08,0umAVgPHQ7miKOZissTzxV,18873,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0b3yAjNiqmI$oJvUySR554,nds-main-general-v08,0b3yAjNiqmI$oJvUySR554,18895,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1$in_YnzZMTtwgVllolIES,nds-main-general-v08,1$in_YnzZMTtwgVllolIES,18898,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0CpNuj_XgVEbuTrCCOcG79,nds-main-general-v08,0CpNuj_XgVEbuTrCCOcG79,18901,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1$MOuVtacPhNL1cQt1KDWs,nds-main-general-v08,1$MOuVtacPhNL1cQt1KDWs,18923,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2WCUXVBJbflUM1MyiMIIWa,nds-main-general-v08,2WCUXVBJbflUM1MyiMIIWa,18999,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3mLx$$xyqnFJaGjZ56HME$,nds-main-general-v08,3mLx$$xyqnFJaGjZ56HME$,19150,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0tk$5fEBm4fJ99KPairht9,nds-main-general-v08,0tk$5fEBm4fJ99KPairht9,19211,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|06Y7Rd8KkE5x3yzGN9v6mF,nds-main-general-v08,06Y7Rd8KkE5x3yzGN9v6mF,19214,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2tMtikmDNEgDMzc8KmSQ5E,nds-main-general-v08,2tMtikmDNEgDMzc8KmSQ5E,19313,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1p9UzQjuA5LcZw0k5qGY9U,nds-main-general-v08,1p9UzQjuA5LcZw0k5qGY9U,19400,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3n73K9vrZgHeYIEn$NFzWd,nds-main-general-v08,3n73K9vrZgHeYIEn$NFzWd,19609,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3MI0iOz39HutWz6VHS9$Ef,nds-main-general-v08,3MI0iOz39HutWz6VHS9$Ef,19612,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0MUWTvbNczDnW3F0g_fnBT,nds-main-general-v08,0MUWTvbNczDnW3F0g_fnBT,19637,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2$tOjBufjV9XeP1RnpjBtO,nds-main-general-v08,2$tOjBufjV9XeP1RnpjBtO,19640,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3iYeyatQMd_mCA83qHOnsK,nds-main-general-v08,3iYeyatQMd_mCA83qHOnsK,19661,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1pm9bDkfPKO2ovZOZk9bm2,nds-main-general-v08,1pm9bDkfPKO2ovZOZk9bm2,19665,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3rsIXNBv6OJjbJObC0xD9R,nds-main-general-v08,3rsIXNBv6OJjbJObC0xD9R,19706,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3VZfFKVdt8mNQbBED79zij,nds-main-general-v08,3VZfFKVdt8mNQbBED79zij,19708,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0gbyIKJqiZQmFzux9j57E$,nds-main-general-v08,0gbyIKJqiZQmFzux9j57E$,19663,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0URGdEUEgPp5TMgIJl$HW7,nds-main-general-v08,0URGdEUEgPp5TMgIJl$HW7,19777,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0p837TBnhMAsUDAhTJTMEY,nds-main-general-v08,0p837TBnhMAsUDAhTJTMEY,19782,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2AnSwXzbakzeQ7Bd5XaDPm,nds-main-general-v08,2AnSwXzbakzeQ7Bd5XaDPm,19825,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2yE3$VxnvwDSgj7JsiMeCB,nds-main-general-v08,2yE3$VxnvwDSgj7JsiMeCB,19868,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3P9yHiw6NPcLwrhQ6oVOLD,nds-main-general-v08,3P9yHiw6NPcLwrhQ6oVOLD,19902,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|22aSCBgJg$ij85tRiRozTp,nds-main-general-v08,22aSCBgJg$ij85tRiRozTp,19900,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|25tKfN53sIr8YEQxxVcnqV,nds-main-general-v08,25tKfN53sIr8YEQxxVcnqV,20079,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1SZ3t6tBZUZuCyb26UQBQa,nds-main-general-v08,1SZ3t6tBZUZuCyb26UQBQa,20077,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1anqAOLd1yaHxfHBmnP7U1,nds-main-general-v08,1anqAOLd1yaHxfHBmnP7U1,20211,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1CFrt16ouePUjQWMIsaxS0,nds-main-general-v08,1CFrt16ouePUjQWMIsaxS0,20240,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3Nz7D2b$$K$jIBOdwn3NBy,nds-main-general-v08,3Nz7D2b$$K$jIBOdwn3NBy,20244,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1B9fAgUNPUzH2bylLU_z5p,nds-main-general-v08,1B9fAgUNPUzH2bylLU_z5p,20354,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|06LEScKcoQ7Vz77Su0kMlI,nds-main-general-v08,06LEScKcoQ7Vz77Su0kMlI,20401,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1IgUrkd0LIqSMjEMl1zM26,nds-main-general-v08,1IgUrkd0LIqSMjEMl1zM26,20423,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3_g32WY4YGAg6mL4EWyojp,nds-main-general-v08,3_g32WY4YGAg6mL4EWyojp,20470,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|00YeYTHbh00gij_f7VwtjF,nds-main-general-v08,00YeYTHbh00gij_f7VwtjF,20517,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0dH$s3hRR7VL2I_3l3m92f,nds-main-general-v08,0dH$s3hRR7VL2I_3l3m92f,20711,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1Ku1FSK2OVoAFRjJEaCN7y,nds-main-general-v08,1Ku1FSK2OVoAFRjJEaCN7y,20713,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3rB0D8G0nmFg2pjMiXdqv_,nds-main-general-v08,3rB0D8G0nmFg2pjMiXdqv_,20799,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1x_IDXG3ujOINACzWT6uA8,nds-main-general-v08,1x_IDXG3ujOINACzWT6uA8,20921,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0DKPN30HFsf7Hq3khvqJOQ,nds-main-general-v08,0DKPN30HFsf7Hq3khvqJOQ,20927,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2ReMKLlDHvt3D2l61KXUoo,nds-main-general-v08,2ReMKLlDHvt3D2l61KXUoo,20946,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3oEycej2dJysOx6OJgweTQ,nds-main-general-v08,3oEycej2dJysOx6OJgweTQ,20944,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3x8dVV6dJIO1qa8h8IxMp4,nds-main-general-v08,3x8dVV6dJIO1qa8h8IxMp4,21035,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3ov0abJwfUPSrk0xEVO7tn,nds-main-general-v08,3ov0abJwfUPSrk0xEVO7tn,21033,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2hLb$AU77D3tW0finkeW1p,nds-main-general-v08,2hLb$AU77D3tW0finkeW1p,21082,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|280od_9z$s4qTl8esiohKz,nds-main-general-v08,280od_9z$s4qTl8esiohKz,21125,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1t3yuggrIWLGN8R8Ntcues,nds-main-general-v08,1t3yuggrIWLGN8R8Ntcues,21239,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2cXO1CLPASFF5lsHtWyUd4,nds-main-general-v08,2cXO1CLPASFF5lsHtWyUd4,21237,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0dSJQyn9esRNkTu63HR1PQ,nds-main-general-v08,0dSJQyn9esRNkTu63HR1PQ,21261,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2Dly3DjxD4UzMsjMwBZF38,nds-main-general-v08,2Dly3DjxD4UzMsjMwBZF38,21286,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|36dgXuW4cXEPOzML0M8oGq,nds-main-general-v08,36dgXuW4cXEPOzML0M8oGq,21288,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|25DNSYI1zcaadcfSickcrB,nds-main-general-v08,25DNSYI1zcaadcfSickcrB,21276,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3N5ugUFawSO1v98zACgyzA,nds-main-general-v08,3N5ugUFawSO1v98zACgyzA,21386,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3IrQoRFDrVmG6YDIt0Duuo,nds-main-general-v08,3IrQoRFDrVmG6YDIt0Duuo,21519,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2ObqUZrLwOwPdsDqY5esS5,nds-main-general-v08,2ObqUZrLwOwPdsDqY5esS5,21523,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|05ANwGsNsI8Io$YHi8JLDz,nds-main-general-v08,05ANwGsNsI8Io$YHi8JLDz,21624,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1HuAOBCg8WsprLPgHEWPju,nds-main-general-v08,1HuAOBCg8WsprLPgHEWPju,21642,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3N1o7ZGZhuDypmXOLE8ka0,nds-main-general-v08,3N1o7ZGZhuDypmXOLE8ka0,21712,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0TonvANkoXDyxNqy16nEj_,nds-main-general-v08,0TonvANkoXDyxNqy16nEj_,22104,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1T8Ubq9x2EF1ic1$Lx_qF9,nds-main-general-v08,1T8Ubq9x2EF1ic1$Lx_qF9,22190,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0lSw5K3zMe_eXVAzW4Lwmb,nds-main-general-v08,0lSw5K3zMe_eXVAzW4Lwmb,22278,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0kA48oLnjIQ_6VOFc6ggJc,nds-main-general-v08,0kA48oLnjIQ_6VOFc6ggJc,22440,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0_gqvRnM_nzvUKEyl8SOIu,nds-main-general-v08,0_gqvRnM_nzvUKEyl8SOIu,22554,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|02cb6_IWr36mQiZSrghB06,nds-main-general-v08,02cb6_IWr36mQiZSrghB06,22628,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0EnT0kBhC1JmHpHUEobd$z,nds-main-general-v08,0EnT0kBhC1JmHpHUEobd$z,22673,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3o553jNRLyKyOtiPqWGmkC,nds-main-general-v08,3o553jNRLyKyOtiPqWGmkC,22690,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1Htkam0O$jCCez38gJv7tH,nds-main-general-v08,1Htkam0O$jCCez38gJv7tH,22719,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|13szu_SjcdCRxFyMcA8TDW,nds-main-general-v08,13szu_SjcdCRxFyMcA8TDW,22783,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1cMEWwJdhx3Y_48OeKmqtk,nds-main-general-v08,1cMEWwJdhx3Y_48OeKmqtk,22933,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1$VsbPUr_u2SVzfQ1CAdYt,nds-main-general-v08,1$VsbPUr_u2SVzfQ1CAdYt,22949,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1f1GJ$uCfHhClzGIhXp$Nt,nds-main-general-v08,1f1GJ$uCfHhClzGIhXp$Nt,23027,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|28g9_n23373iW7nhNdi8N$,nds-main-general-v08,28g9_n23373iW7nhNdi8N$,23467,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3ESNJqj3XAJ_o3vpZUVGvO,nds-main-general-v08,3ESNJqj3XAJ_o3vpZUVGvO,23469,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0UC748$3ERfpuYhRhLLfTg,nds-main-general-v08,0UC748$3ERfpuYhRhLLfTg,23578,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3WGKUa1qVI3TuNFWs1hN4X,nds-main-general-v08,3WGKUa1qVI3TuNFWs1hN4X,23581,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2yDKJFXvhwAxyUrrLggeVb,nds-main-general-v08,2yDKJFXvhwAxyUrrLggeVb,23684,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0ADFQCnykCed4yREfd8zL3,nds-main-general-v08,0ADFQCnykCed4yREfd8zL3,23804,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3s9FyWLwNn3$lHARVf3H$Q,nds-main-general-v08,3s9FyWLwNn3$lHARVf3H$Q,23801,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3rSXNijn1Yd1V_Xbcwa4U6,nds-main-general-v08,3rSXNijn1Yd1V_Xbcwa4U6,23903,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0O0meT2vT8RBjz9BtqGShL,nds-main-general-v08,0O0meT2vT8RBjz9BtqGShL,23909,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|163p9vuI33WkV9$s8ppqYZ,nds-main-general-v08,163p9vuI33WkV9$s8ppqYZ,23977,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2NgKb$u3XJ4ygACs0WyT9e,nds-main-general-v08,2NgKb$u3XJ4ygACs0WyT9e,23994,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3a1awVkxpN3jxjLwdrmtSt,nds-main-general-v08,3a1awVkxpN3jxjLwdrmtSt,23997,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|33Vf$iXQfcop9I6OIHovOR,nds-main-general-v08,33Vf$iXQfcop9I6OIHovOR,24161,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|17i2rSbxqBV7GksWPGfnMT,nds-main-general-v08,17i2rSbxqBV7GksWPGfnMT,24176,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1La1T0lm_mesTPX$Pmnrbn,nds-main-general-v08,1La1T0lm_mesTPX$Pmnrbn,24200,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0gLRPotABp4ELZfp$54Grg,nds-main-general-v08,0gLRPotABp4ELZfp$54Grg,24224,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2hYs8xp3jxmQgMMOCfQXex,nds-main-general-v08,2hYs8xp3jxmQgMMOCfQXex,24354,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0$0B53JD2VdnRTX7MN887o,nds-main-general-v08,0$0B53JD2VdnRTX7MN887o,24405,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|06hJ5F9AyzhUwS$drrFj4X,nds-main-general-v08,06hJ5F9AyzhUwS$drrFj4X,24544,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3tfk2bUisKl0f3BZPvSxyE,nds-main-general-v08,3tfk2bUisKl0f3BZPvSxyE,24836,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|27x2on5kQ5vd5YOFbyXz1q,nds-main-general-v08,27x2on5kQ5vd5YOFbyXz1q,24861,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2e_yS7fD3YmKFuQ5Qee$oF,nds-main-general-v08,2e_yS7fD3YmKFuQ5Qee$oF,25220,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3nTnlZEJh3g_fQyv4V_JKe,nds-main-general-v08,3nTnlZEJh3g_fQyv4V_JKe,25261,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|38FOfGVIjxDhGVXUdaCOIw,nds-main-general-v08,38FOfGVIjxDhGVXUdaCOIw,25465,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1UGxX85nSPikgZU1nibeIq,nds-main-general-v08,1UGxX85nSPikgZU1nibeIq,25473,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1Aa$nllnAV8kB_nQlygmkc,nds-main-general-v08,1Aa$nllnAV8kB_nQlygmkc,25705,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1TWJhKT8ElVYQW$0DQlXOY,nds-main-general-v08,1TWJhKT8ElVYQW$0DQlXOY,26045,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1iP8R1ahhCGaPLjULDp5ql,nds-main-general-v08,1iP8R1ahhCGaPLjULDp5ql,26081,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0DgBQIphHCeXWYAEZDcZXW,nds-main-general-v08,0DgBQIphHCeXWYAEZDcZXW,26475,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|11gWb$jUXlk24FM6yEWFKB,nds-main-general-v08,11gWb$jUXlk24FM6yEWFKB,26473,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3Qnb4ecIy4TWVYGRDXd0VH,nds-main-general-v08,3Qnb4ecIy4TWVYGRDXd0VH,26589,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1cA9WMa09mxEaCtUtTBfvy,nds-main-general-v08,1cA9WMa09mxEaCtUtTBfvy,26592,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3fUeUMNE18NQP$QohLiL$4,nds-main-general-v08,3fUeUMNE18NQP$QohLiL$4,26622,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3OH7n7ZuE6VXeCocSZrxpT,nds-main-general-v08,3OH7n7ZuE6VXeCocSZrxpT,26617,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0aGdhYZBaS73LRCnl28bil,nds-main-general-v08,0aGdhYZBaS73LRCnl28bil,26650,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|27YZlznEXRcbtixtYy4o6Z,nds-main-general-v08,27YZlznEXRcbtixtYy4o6Z,26724,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|2YuFVi6ScnXQP6uLYo5mLG,nds-main-general-v08,2YuFVi6ScnXQP6uLYo5mLG,26754,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3Okc5MsQWXDUiEzhRXlfsw,nds-main-general-v08,3Okc5MsQWXDUiEzhRXlfsw,26863,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0wyEVHJI7mhdV3BBds7wGZ,nds-main-general-v08,0wyEVHJI7mhdV3BBds7wGZ,26912,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0oEAcdgeUx9I_q5qGo_IUn,nds-main-general-v08,0oEAcdgeUx9I_q5qGo_IUn,27529,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|3czvK75byMsPnrl4OUil3X,nds-main-general-v08,3czvK75byMsPnrl4OUil3X,27531,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0T47QXqi5rWqTeHyAIAz5Z,nds-main-general-v08,0T47QXqi5rWqTeHyAIAz5Z,27679,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|1RkPwTAX_qu5LIcB_9NEmQ,nds-main-general-v08,1RkPwTAX_qu5LIcB_9NEmQ,27715,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|30g8d5Fzwi_bTk1$6gmult,nds-main-general-v08,30g8d5Fzwi_bTk1$6gmult,27730,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|0Qliw0wbrefdNwcWoCfKdL,nds-main-general-v08,0Qliw0wbrefdNwcWoCfKdL,27825,IfcVirtualElement,,,,,,,,,,,,,,,,False
+nds-main-general-v08|00tMo7QcxqWdIGvc4sMN2A,nds-main-general-v08,00tMo7QcxqWdIGvc4sMN2A,2649,IfcBuilding,Building,,,,,,,,,00tMo7QcxqWdIGvc4sMN2A,Building,,,,,False
+nds-main-general-v08|2lbmSflIj1IxyOP0RthXii,nds-main-general-v08,2lbmSflIj1IxyOP0RthXii,17208,IfcBuildingStorey,0. Story,,,,,,,,,00tMo7QcxqWdIGvc4sMN2A,Building,,,,,False
+nds-main-general-v08|20FpTZCqJy2vhVJYtjuIce,nds-main-general-v08,20FpTZCqJy2vhVJYtjuIce,26,IfcSite,Site,,,,,,,,,,,,,,,False
+nds-main-general-v08|3JozJKCo9ADgyHQwG1WIrv,nds-main-general-v08,3JozJKCo9ADgyHQwG1WIrv,2656,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.9,0. Story,2,,True
+nds-main-general-v08|1hlNKjiWv1nhiFEfIfrv38,nds-main-general-v08,1hlNKjiWv1nhiFEfIfrv38,2653,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.7,0. Story,3,,True
+nds-main-general-v08|0FQUKLEFD5GB7iif3es_re,nds-main-general-v08,0FQUKLEFD5GB7iif3es_re,2659,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.7,0. Story,3,,True
+nds-main-general-v08|3Cef_LQ3fB99RsRAVmjHcX,nds-main-general-v08,3Cef_LQ3fB99RsRAVmjHcX,2662,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.1,0. Story,3,,True
+nds-main-general-v08|3clUWJCfzCWQl5Ec1UyR8p,nds-main-general-v08,3clUWJCfzCWQl5Ec1UyR8p,2668,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.5,0. Story,2,,True
+nds-main-general-v08|24fLBCIovA_9IYN59jn9xP,nds-main-general-v08,24fLBCIovA_9IYN59jn9xP,2665,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.8,0. Story,3,,True
+nds-main-general-v08|1F0Ghf6Bf57wogdTc3TD6P,nds-main-general-v08,1F0Ghf6Bf57wogdTc3TD6P,2674,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.9,0. Story,1,,True
+nds-main-general-v08|16iF67yfv0IuhPevCcoNYW,nds-main-general-v08,16iF67yfv0IuhPevCcoNYW,2677,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.1,0. Story,4,,True
+nds-main-general-v08|3XzwpilRD9vRzmz67YuM4k,nds-main-general-v08,3XzwpilRD9vRzmz67YuM4k,2682,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.5,0. Story,3,,True
+nds-main-general-v08|3$nPcqnWrF8e_hp1qNsUdF,nds-main-general-v08,3$nPcqnWrF8e_hp1qNsUdF,2685,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.8,0. Story,2,,True
+nds-main-general-v08|0XGxbvY$rA9vqEqA4iM7UP,nds-main-general-v08,0XGxbvY$rA9vqEqA4iM7UP,2692,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.8,0. Story,3,,True
+nds-main-general-v08|0XDRlH8Ff4qxaqa3NNviV8,nds-main-general-v08,0XDRlH8Ff4qxaqa3NNviV8,2706,IfcSpace,RETAIL,,,,Retail,RETAIL,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.7,0. Story,1,,True
+nds-main-general-v08|3ughY9ojL0vPj$4QO1x_Vn,nds-main-general-v08,3ughY9ojL0vPj$4QO1x_Vn,2700,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.5,0. Story,2,,True
+nds-main-general-v08|1FR1vgUK97pPPMFv4k21_7,nds-main-general-v08,1FR1vgUK97pPPMFv4k21_7,2697,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.10,0. Story,2,,True
+nds-main-general-v08|0LIOgEeY96TxVhVHp9fOlJ,nds-main-general-v08,0LIOgEeY96TxVhVHp9fOlJ,2691,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.2,0. Story,3,,True
+nds-main-general-v08|3vciuk6PLEHxDZIXyN4GTK,nds-main-general-v08,3vciuk6PLEHxDZIXyN4GTK,2725,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.4,0. Story,2,,True
+nds-main-general-v08|0DeqYmz2933xi4iu4TVc4c,nds-main-general-v08,0DeqYmz2933xi4iu4TVc4c,2722,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.7,0. Story,2,,True
+nds-main-general-v08|0LjbhyG7n2Le0sTEd0afcp,nds-main-general-v08,0LjbhyG7n2Le0sTEd0afcp,2719,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.6,0. Story,3,,True
+nds-main-general-v08|3BGDkFuQf9gwkBkGbS5Osw,nds-main-general-v08,3BGDkFuQf9gwkBkGbS5Osw,2716,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.2,0. Story,2,,True
+nds-main-general-v08|3LrQYeKmbEKA7Ik$L4LWDG,nds-main-general-v08,3LrQYeKmbEKA7Ik$L4LWDG,2713,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.9,0. Story,3,,True
+nds-main-general-v08|0musxLgVv4SObNpEke$y18,nds-main-general-v08,0musxLgVv4SObNpEke$y18,2671,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.9,0. Story,2,,True
+nds-main-general-v08|1te1EQFmLAjRNkRYlpVuiW,nds-main-general-v08,1te1EQFmLAjRNkRYlpVuiW,2734,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G.1.1,0. Story,1,,True
+nds-main-general-v08|3c0dSm_3TE0hQ3J$tWLNMX,nds-main-general-v08,3c0dSm_3TE0hQ3J$tWLNMX,2698,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,2,,True
+nds-main-general-v08|0z0xSETIrAEPDaV2CuZS8Y,nds-main-general-v08,0z0xSETIrAEPDaV2CuZS8Y,2728,IfcSpace,RETAIL,,,,Retail,RETAIL,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,1,,True
+nds-main-general-v08|07G7V8o$D23gS5Heg_SN$I,nds-main-general-v08,07G7V8o$D23gS5Heg_SN$I,2740,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.1,0. Story,3,,True
+nds-main-general-v08|0DDiR0VCj5NgvrkgfrZZrJ,nds-main-general-v08,0DDiR0VCj5NgvrkgfrZZrJ,2743,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.2,0. Story,3,,True
+nds-main-general-v08|0lhL$Q0_v3qPta5rkuBwQQ,nds-main-general-v08,0lhL$Q0_v3qPta5rkuBwQQ,2746,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.2,0. Story,2,,True
+nds-main-general-v08|1EANsSwEP3D8FoNnTngIbX,nds-main-general-v08,1EANsSwEP3D8FoNnTngIbX,2752,IfcSpace,RETAIL,,,,Retail,RETAIL,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.5,0. Story,1,,True
+nds-main-general-v08|0gY5HeAUz3iO_G4qEPHR_k,nds-main-general-v08,0gY5HeAUz3iO_G4qEPHR_k,2755,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.1,0. Story,2,,True
+nds-main-general-v08|0_if9IsDDAHvaCQgRCWjJB,nds-main-general-v08,0_if9IsDDAHvaCQgRCWjJB,2761,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.1,0. Story,2,,True
+nds-main-general-v08|3zsJ1DjcH14f1BjCV$YdSn,nds-main-general-v08,3zsJ1DjcH14f1BjCV$YdSn,2764,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.2,0. Story,1,,True
+nds-main-general-v08|1ozqY0HjbCzepbMniTG2KO,nds-main-general-v08,1ozqY0HjbCzepbMniTG2KO,2758,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.10,0. Story,2,,True
+nds-main-general-v08|0ptIXfF49699dznHIZ4g5P,nds-main-general-v08,0ptIXfF49699dznHIZ4g5P,2770,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.3,0. Story,1,,True
+nds-main-general-v08|0geeLySLz92vVrEgoi5PU1,nds-main-general-v08,0geeLySLz92vVrEgoi5PU1,2779,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.5,0. Story,3,,True
+nds-main-general-v08|0HXCsPHjvDXQWZMvqTmo_g,nds-main-general-v08,0HXCsPHjvDXQWZMvqTmo_g,2782,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.11,0. Story,1,,True
+nds-main-general-v08|0GaMotWgHF2v5AiOVxkBTl,nds-main-general-v08,0GaMotWgHF2v5AiOVxkBTl,2749,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.7,0. Story,5,,True
+nds-main-general-v08|0BTHwTjbb7RBVdUDdbFyYc,nds-main-general-v08,0BTHwTjbb7RBVdUDdbFyYc,2788,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.8,0. Story,1,,True
+nds-main-general-v08|1VzWJEipvEcPwdLsTQ1W8A,nds-main-general-v08,1VzWJEipvEcPwdLsTQ1W8A,2794,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.9,0. Story,1,,True
+nds-main-general-v08|0Y6FiNUhH2s8m0iiIqaajr,nds-main-general-v08,0Y6FiNUhH2s8m0iiIqaajr,2797,IfcSpace,RETAIL,,,,Retail,RETAIL,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.7,0. Story,1,,True
+nds-main-general-v08|1NBmgtmzLBjuN8$0CU7n3K,nds-main-general-v08,1NBmgtmzLBjuN8$0CU7n3K,2803,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.3,0. Story,2,,True
+nds-main-general-v08|0xUi1Irdj2tB$emKuXXp$p,nds-main-general-v08,0xUi1Irdj2tB$emKuXXp$p,2800,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.2,0. Story,1,,True
+nds-main-general-v08|02Ow0pm3j1291vZEixLDsF,nds-main-general-v08,02Ow0pm3j1291vZEixLDsF,2817,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.5,0. Story,2,,True
+nds-main-general-v08|14ePuj0jfDOhAaNlFqhCrL,nds-main-general-v08,14ePuj0jfDOhAaNlFqhCrL,2812,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,4,,True
+nds-main-general-v08|2GLedP5ib3XQ_19amZhYrp,nds-main-general-v08,2GLedP5ib3XQ_19amZhYrp,2823,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.1,0. Story,2,,True
+nds-main-general-v08|2jW5sA$WP7phjsW4qvcL7x,nds-main-general-v08,2jW5sA$WP7phjsW4qvcL7x,2826,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.1,0. Story,5,,True
+nds-main-general-v08|2NSNiqWWD63vHDh_QwYdJj,nds-main-general-v08,2NSNiqWWD63vHDh_QwYdJj,2838,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.4,0. Story,1,,True
+nds-main-general-v08|2gEWA2sKP1vQHX6gW56J6s,nds-main-general-v08,2gEWA2sKP1vQHX6gW56J6s,2839,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.6,0. Story,1,,True
+nds-main-general-v08|0E5eRBTnH4P9OF0obnqRaM,nds-main-general-v08,0E5eRBTnH4P9OF0obnqRaM,2842,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.4,0. Story,4,,True
+nds-main-general-v08|2B4cSt_Iz0oQkontaYpT3O,nds-main-general-v08,2B4cSt_Iz0oQkontaYpT3O,2846,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.6,0. Story,5,,True
+nds-main-general-v08|0Vz4vuj7jDfOOeema7N_pO,nds-main-general-v08,0Vz4vuj7jDfOOeema7N_pO,2850,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,4,,True
+nds-main-general-v08|0hPydyypz9G8BKpt7TZuo7,nds-main-general-v08,0hPydyypz9G8BKpt7TZuo7,2851,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.8,0. Story,3,,True
+nds-main-general-v08|1DN7fXcnTELQKMxF6cHivm,nds-main-general-v08,1DN7fXcnTELQKMxF6cHivm,2856,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,4,,True
+nds-main-general-v08|17sPYycxPExf5lDGc1BgrP,nds-main-general-v08,17sPYycxPExf5lDGc1BgrP,2858,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,4,,True
+nds-main-general-v08|3uTiBDzm501w0YIm52LpEr,nds-main-general-v08,3uTiBDzm501w0YIm52LpEr,2860,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,4,,True
+nds-main-general-v08|3_lJuRUkfCafr689wv8oOb,nds-main-general-v08,3_lJuRUkfCafr689wv8oOb,2864,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.1,0. Story,4,,True
+nds-main-general-v08|33YoMLLVf4EO9JKk472AjS,nds-main-general-v08,33YoMLLVf4EO9JKk472AjS,2867,IfcSpace,RETAIL,,,,Retail,RETAIL,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.6,0. Story,1,,True
+nds-main-general-v08|3tTWTQZ4jDbx6lCHUGAOhv,nds-main-general-v08,3tTWTQZ4jDbx6lCHUGAOhv,2870,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.10,0. Story,1,,True
+nds-main-general-v08|1WYpc4qM9EW9Xyuora5jQ2,nds-main-general-v08,1WYpc4qM9EW9Xyuora5jQ2,2873,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.8,0. Story,1,,True
+nds-main-general-v08|1qsVUL3EH5UBSwbUtYRUUb,nds-main-general-v08,1qsVUL3EH5UBSwbUtYRUUb,2876,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.7,0. Story,1,,True
+nds-main-general-v08|1f1oIogVfFnwRLmZGdW5th,nds-main-general-v08,1f1oIogVfFnwRLmZGdW5th,2879,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.9,0. Story,1,,True
+nds-main-general-v08|0msxycw39079eU8nj9NJb6,nds-main-general-v08,0msxycw39079eU8nj9NJb6,2885,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.4,0. Story,1,,True
+nds-main-general-v08|3asDVbwgD99hCTZynyzG_P,nds-main-general-v08,3asDVbwgD99hCTZynyzG_P,2888,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.2,0. Story,2,,True
+nds-main-general-v08|1WuVs55gH34uVhRIr9jVAJ,nds-main-general-v08,1WuVs55gH34uVhRIr9jVAJ,2891,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.10,0. Story,1,,True
+nds-main-general-v08|0Tc9zsSD13XOnX1mp7R1nD,nds-main-general-v08,0Tc9zsSD13XOnX1mp7R1nD,2894,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.1,0. Story,5,,True
+nds-main-general-v08|3fiJ09VjrFUwKvCGIB9oH5,nds-main-general-v08,3fiJ09VjrFUwKvCGIB9oH5,2897,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.6,0. Story,3,,True
+nds-main-general-v08|3TR25hki9DBupL6gVpI41a,nds-main-general-v08,3TR25hki9DBupL6gVpI41a,2899,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.1,0. Story,2,,True
+nds-main-general-v08|1jfqMUfor5X9VvjX0$8t0b,nds-main-general-v08,1jfqMUfor5X9VvjX0$8t0b,2900,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,5,,True
+nds-main-general-v08|36wJRwgrP7Y9hCv9B2OHkY,nds-main-general-v08,36wJRwgrP7Y9hCv9B2OHkY,2903,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,5,,True
+nds-main-general-v08|2OJQY$9c92f9hAAtTnbdm4,nds-main-general-v08,2OJQY$9c92f9hAAtTnbdm4,2906,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.1,0. Story,1,,True
+nds-main-general-v08|1LjPDPcQX6iuTjWH3x_xAf,nds-main-general-v08,1LjPDPcQX6iuTjWH3x_xAf,2820,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.10,0. Story,4,,True
+nds-main-general-v08|0EamjVmwnBPQ9yDoUcdvnF,nds-main-general-v08,0EamjVmwnBPQ9yDoUcdvnF,2915,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,6,,True
+nds-main-general-v08|05lIzn61D4HwOLs2tEsD9a,nds-main-general-v08,05lIzn61D4HwOLs2tEsD9a,2918,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.8,0. Story,5,,True
+nds-main-general-v08|3JM1SDqO92cOS2O$rnix3Q,nds-main-general-v08,3JM1SDqO92cOS2O$rnix3Q,2921,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.15,0. Story,5,,True
+nds-main-general-v08|2P6mhjft17ouheQBmiLDdD,nds-main-general-v08,2P6mhjft17ouheQBmiLDdD,2924,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.7,0. Story,5,,True
+nds-main-general-v08|1aMqZrcRXBwu_WPaU0dLpm,nds-main-general-v08,1aMqZrcRXBwu_WPaU0dLpm,2927,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.6,0. Story,2,,True
+nds-main-general-v08|1nevbsYif289L6wrg$CdQP,nds-main-general-v08,1nevbsYif289L6wrg$CdQP,2930,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.3,0. Story,1,,True
+nds-main-general-v08|3dvUnuUFv5mfQZHZcyHaw5,nds-main-general-v08,3dvUnuUFv5mfQZHZcyHaw5,2933,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.6,0. Story,2,,True
+nds-main-general-v08|3nATqBeKr9HfvNYvYqwGk6,nds-main-general-v08,3nATqBeKr9HfvNYvYqwGk6,2912,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.10,0. Story,1,,True
+nds-main-general-v08|214Ws9gVX9CRvJ2GkvMFlf,nds-main-general-v08,214Ws9gVX9CRvJ2GkvMFlf,2934,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.1,0. Story,1,,True
+nds-main-general-v08|1nnz8gus9FYvetzHtCorEO,nds-main-general-v08,1nnz8gus9FYvetzHtCorEO,2941,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.7,0. Story,2,,True
+nds-main-general-v08|2xYzofNMX4SgbODRlGaewU,nds-main-general-v08,2xYzofNMX4SgbODRlGaewU,2944,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.8,0. Story,2,,True
+nds-main-general-v08|21T$4geVX1ohvhIHLMhfL7,nds-main-general-v08,21T$4geVX1ohvhIHLMhfL7,2952,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.5,0. Story,1,,True
+nds-main-general-v08|2md7c49bj9Uxt5H6OTMynF,nds-main-general-v08,2md7c49bj9Uxt5H6OTMynF,2806,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.5,0. Story,1,,True
+nds-main-general-v08|0qyD8tkG9EDxPndPb2G$YH,nds-main-general-v08,0qyD8tkG9EDxPndPb2G$YH,2946,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.9,0. Story,2,,True
+nds-main-general-v08|0ffrK6RVPEsRIDFcyJx3Ft,nds-main-general-v08,0ffrK6RVPEsRIDFcyJx3Ft,2945,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.4,0. Story,2,,True
+nds-main-general-v08|1ol9o3TSz2PgORk1MTPZux,nds-main-general-v08,1ol9o3TSz2PgORk1MTPZux,2958,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.7,0. Story,6,,True
+nds-main-general-v08|0zmJBKVy58NxLawq_SjajZ,nds-main-general-v08,0zmJBKVy58NxLawq_SjajZ,2955,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.7,0. Story,7,,True
+nds-main-general-v08|27rDARf712jvtUo0OWpTFm,nds-main-general-v08,27rDARf712jvtUo0OWpTFm,2970,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.6,0. Story,1,,True
+nds-main-general-v08|2VLer62rn9Gep5XwS0TDEQ,nds-main-general-v08,2VLer62rn9Gep5XwS0TDEQ,2967,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.7,0. Story,4,,True
+nds-main-general-v08|2MXiYnZ5D7WxmhaYpKShLZ,nds-main-general-v08,2MXiYnZ5D7WxmhaYpKShLZ,2964,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.3,0. Story,2,,True
+nds-main-general-v08|271H35Liv7N8k23vZrsnUS,nds-main-general-v08,271H35Liv7N8k23vZrsnUS,2961,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.7,0. Story,5,,True
+nds-main-general-v08|0AogN7_2HFPPl5G5aILSXF,nds-main-general-v08,0AogN7_2HFPPl5G5aILSXF,2975,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.3,0. Story,3,,True
+nds-main-general-v08|2o3lFKxzvAiQTD71inRxl5,nds-main-general-v08,2o3lFKxzvAiQTD71inRxl5,2974,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,5,,True
+nds-main-general-v08|0VFUYPLRn49fFLohDn3qXO,nds-main-general-v08,0VFUYPLRn49fFLohDn3qXO,2973,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.4,0. Story,3,,True
+nds-main-general-v08|0rqDRpgHPFFAzx2hq_ie$i,nds-main-general-v08,0rqDRpgHPFFAzx2hq_ie$i,2993,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.1,0. Story,5,,True
+nds-main-general-v08|2veI9Loln449wXox7qsUtp,nds-main-general-v08,2veI9Loln449wXox7qsUtp,2992,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.1,0. Story,3,,True
+nds-main-general-v08|2AC4l8P617leH9X1IoN1co,nds-main-general-v08,2AC4l8P617leH9X1IoN1co,2987,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.10,0. Story,3,,True
+nds-main-general-v08|1KInjOzOD8c8xNnMqu_YOO,nds-main-general-v08,1KInjOzOD8c8xNnMqu_YOO,2981,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.9,0. Story,3,,True
+nds-main-general-v08|2BwKOa7vvAtOfuqNM_vgQR,nds-main-general-v08,2BwKOa7vvAtOfuqNM_vgQR,2978,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,3,,True
+nds-main-general-v08|3B$Gy8qzn6xgKbjEIbiDdH,nds-main-general-v08,3B$Gy8qzn6xgKbjEIbiDdH,3009,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.6,0. Story,3,,True
+nds-main-general-v08|2lgia2KOjFwOKbTTcxnuTv,nds-main-general-v08,2lgia2KOjFwOKbTTcxnuTv,3005,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.9,0. Story,4,,True
+nds-main-general-v08|2Unjfa9Cr29fEMyT5QHJy6,nds-main-general-v08,2Unjfa9Cr29fEMyT5QHJy6,3001,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.5,0. Story,4,,True
+nds-main-general-v08|1T7HhI5Of79gPl406zPSce,nds-main-general-v08,1T7HhI5Of79gPl406zPSce,2998,IfcSpace,PARKOVÁNÍ,,,,Parkování,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,5,,True
+nds-main-general-v08|3T9cxT$VH10RFCIqfZt8zE,nds-main-general-v08,3T9cxT$VH10RFCIqfZt8zE,3025,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.2,0. Story,2,,True
+nds-main-general-v08|2ga9zHdnP7bRXsh$BH0gjL,nds-main-general-v08,2ga9zHdnP7bRXsh$BH0gjL,3022,IfcSpace,PARKOVÁNÍ,,,,Parkování,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,4,,True
+nds-main-general-v08|0JniWJ9oP3rAhMbOACSmUg,nds-main-general-v08,0JniWJ9oP3rAhMbOACSmUg,3019,IfcSpace,PARKOVÁNÍ,,,,Parkování,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,3,,True
+nds-main-general-v08|09JokTXGv6iQYYzE4AtrRJ,nds-main-general-v08,09JokTXGv6iQYYzE4AtrRJ,3012,IfcSpace,PARKOVÁNÍ,,,,Parkování,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,2,,True
+nds-main-general-v08|3NwZjPeY98_xxagmOXG$AQ,nds-main-general-v08,3NwZjPeY98_xxagmOXG$AQ,3015,IfcSpace,PARKOVÁNÍ,,,,Parkování,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,1,,True
+nds-main-general-v08|1c_Ndmv39E9fNsMoHjiyZi,nds-main-general-v08,1c_Ndmv39E9fNsMoHjiyZi,3037,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.8,0. Story,2,,True
+nds-main-general-v08|1cHqChK$v8vg5JBKOV$ldD,nds-main-general-v08,1cHqChK$v8vg5JBKOV$ldD,3034,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.10,0. Story,2,,True
+nds-main-general-v08|2zG_NYlj990hxry41ak4Q_,nds-main-general-v08,2zG_NYlj990hxry41ak4Q_,3031,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.3,0. Story,3,,True
+nds-main-general-v08|3TNEK$aob2WRNMPGrHhIuZ,nds-main-general-v08,3TNEK$aob2WRNMPGrHhIuZ,3018,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.6,0. Story,2,,True
+nds-main-general-v08|2IH60ATIz4o9OfimDPp7fp,nds-main-general-v08,2IH60ATIz4o9OfimDPp7fp,3028,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.9,0. Story,3,,True
+nds-main-general-v08|2kXn$GFEr7eRGuq_05WAUX,nds-main-general-v08,2kXn$GFEr7eRGuq_05WAUX,3054,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.14,0. Story,1,,True
+nds-main-general-v08|1CeTcIYljAUx1RBt8zVWg9,nds-main-general-v08,1CeTcIYljAUx1RBt8zVWg9,3051,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.6,0. Story,1,,True
+nds-main-general-v08|1vMCUZpeX3_86zN78lKW2z,nds-main-general-v08,1vMCUZpeX3_86zN78lKW2z,3048,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.1,0. Story,3,,True
+nds-main-general-v08|18uT4w5D92ygysi$OiWk2i,nds-main-general-v08,18uT4w5D92ygysi$OiWk2i,3043,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.7,0. Story,4,,True
+nds-main-general-v08|3DR2Ho4unE1fzNTaGHXqrl,nds-main-general-v08,3DR2Ho4unE1fzNTaGHXqrl,3040,IfcSpace,RETAIL,,,,Retail,RETAIL,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.4,0. Story,1,,True
+nds-main-general-v08|3zC44pK6vCJOxxLzDfcDYL,nds-main-general-v08,3zC44pK6vCJOxxLzDfcDYL,3069,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.1,0. Story,1,,True
+nds-main-general-v08|0Na3$JTPj6kRt9NlviLMv3,nds-main-general-v08,0Na3$JTPj6kRt9NlviLMv3,3066,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.15,0. Story,1,,True
+nds-main-general-v08|3sCGZ3eRz5Ff06M2nf5mkx,nds-main-general-v08,3sCGZ3eRz5Ff06M2nf5mkx,3063,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.10,0. Story,4,,True
+nds-main-general-v08|1aDhyJNqzDbR1xssbUz2ua,nds-main-general-v08,1aDhyJNqzDbR1xssbUz2ua,3075,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,5,,True
+nds-main-general-v08|0Xk7kgntj4OvCP5MySgAcJ,nds-main-general-v08,0Xk7kgntj4OvCP5MySgAcJ,3072,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.5,0. Story,4,,True
+nds-main-general-v08|0PTnSHhiX0s9u3oyt$qWTW,nds-main-general-v08,0PTnSHhiX0s9u3oyt$qWTW,3060,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.4,0. Story,3,,True
+nds-main-general-v08|2p6y_BZlzEIRFSlwH_$yad,nds-main-general-v08,2p6y_BZlzEIRFSlwH_$yad,3056,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.2,0. Story,4,,True
+nds-main-general-v08|2GtSjAf0zDqe1yLbh9TI$4,nds-main-general-v08,2GtSjAf0zDqe1yLbh9TI$4,3091,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.4,0. Story,4,,True
+nds-main-general-v08|0NILXw$qHBlxl$8EGvBFjA,nds-main-general-v08,0NILXw$qHBlxl$8EGvBFjA,3087,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.4,0. Story,3,,True
+nds-main-general-v08|3wPvgMHAr3ufJ5hUol04mt,nds-main-general-v08,3wPvgMHAr3ufJ5hUol04mt,3084,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.4,0. Story,2,,True
+nds-main-general-v08|3clKkpTPPAv93Ymj9vLhUx,nds-main-general-v08,3clKkpTPPAv93Ymj9vLhUx,2984,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.2,0. Story,3,,True
+nds-main-general-v08|1zovswzEf9_Q_yINCyFCvW,nds-main-general-v08,1zovswzEf9_Q_yINCyFCvW,3078,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.1,0. Story,4,,True
+nds-main-general-v08|1cSaa_MqLE8uoHdLe2ng9Q,nds-main-general-v08,1cSaa_MqLE8uoHdLe2ng9Q,3100,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.10,0. Story,5,,True
+nds-main-general-v08|3$9fcpZvP5Lw4Tz_dE8xeu,nds-main-general-v08,3$9fcpZvP5Lw4Tz_dE8xeu,3081,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.13,0. Story,1,,True
+nds-main-general-v08|1JqeBks0DE7B0PY8ISiYFf,nds-main-general-v08,1JqeBks0DE7B0PY8ISiYFf,3094,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.2,0. Story,4,,True
+nds-main-general-v08|2V_LF690f8zeg_GMycGShk,nds-main-general-v08,2V_LF690f8zeg_GMycGShk,3097,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.5,0. Story,3,,True
+nds-main-general-v08|2nUquWs$H8LPMPsSaCTxio,nds-main-general-v08,2nUquWs$H8LPMPsSaCTxio,3088,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.2,0. Story,3,,True
+nds-main-general-v08|2_flPjH196J8d3zmS8WUvQ,nds-main-general-v08,2_flPjH196J8d3zmS8WUvQ,3108,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.1,0. Story,4,,True
+nds-main-general-v08|09MsVmZoj0Pg4G_E_e1mKe,nds-main-general-v08,09MsVmZoj0Pg4G_E_e1mKe,3122,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.4,0. Story,5,,True
+nds-main-general-v08|2skc5$CJz3UPoBpJy5x6P4,nds-main-general-v08,2skc5$CJz3UPoBpJy5x6P4,3119,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.2,0. Story,5,,True
+nds-main-general-v08|396XkYkH14Tw_b6JvLaqWJ,nds-main-general-v08,396XkYkH14Tw_b6JvLaqWJ,3111,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.9,0. Story,2,,True
+nds-main-general-v08|0_a6RT6OrEARIb1Vt4y7VX,nds-main-general-v08,0_a6RT6OrEARIb1Vt4y7VX,3112,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.6,0. Story,3,,True
+nds-main-general-v08|2XEhZTUcrC_PKSV9T8O4Oo,nds-main-general-v08,2XEhZTUcrC_PKSV9T8O4Oo,3138,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.15,0. Story,2,,True
+nds-main-general-v08|1M6UZH0uHBSe4542rx81wm,nds-main-general-v08,1M6UZH0uHBSe4542rx81wm,3135,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.14,0. Story,2,,True
+nds-main-general-v08|2qkq6SHf995uTvb3hIoCr2,nds-main-general-v08,2qkq6SHf995uTvb3hIoCr2,3132,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.13,0. Story,2,,True
+nds-main-general-v08|10lbY5bdTBifrzfqK9a8RF,nds-main-general-v08,10lbY5bdTBifrzfqK9a8RF,3126,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.10,0. Story,4,,True
+nds-main-general-v08|1s3zOHvlDAxgjhYfbIFaSN,nds-main-general-v08,1s3zOHvlDAxgjhYfbIFaSN,3125,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,3,,True
+nds-main-general-v08|3FABFJqon0NhRKrXaulmwF,nds-main-general-v08,3FABFJqon0NhRKrXaulmwF,3150,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.9,0. Story,4,,True
+nds-main-general-v08|07u0rr_uL4$uSrrhFJoTzF,nds-main-general-v08,07u0rr_uL4$uSrrhFJoTzF,3129,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.6,0. Story,4,,True
+nds-main-general-v08|2Xmw3bgof2JALrxs7Z38YK,nds-main-general-v08,2Xmw3bgof2JALrxs7Z38YK,3147,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.3,0. Story,4,,True
+nds-main-general-v08|00uocsF3z6evRfMS7k8$GT,nds-main-general-v08,00uocsF3z6evRfMS7k8$GT,3144,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.1,0. Story,3,,True
+nds-main-general-v08|0xItjlpRT11Pi1ehnAi7Ey,nds-main-general-v08,0xItjlpRT11Pi1ehnAi7Ey,3141,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.4,0. Story,6,,True
+nds-main-general-v08|2LaCpQQ2rAPfLI75bf8vPP,nds-main-general-v08,2LaCpQQ2rAPfLI75bf8vPP,3153,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.10,0. Story,3,,True
+nds-main-general-v08|21KCg1TlX6vvLHF6dqdwk7,nds-main-general-v08,21KCg1TlX6vvLHF6dqdwk7,3166,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.1,0. Story,5,,True
+nds-main-general-v08|2x7c22wML8JOmFQhN43E9q,nds-main-general-v08,2x7c22wML8JOmFQhN43E9q,3164,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.7,0. Story,3,,True
+nds-main-general-v08|1$Q$1nvifDn8Etr2XbzYgX,nds-main-general-v08,1$Q$1nvifDn8Etr2XbzYgX,3159,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.8,0. Story,3,,True
+nds-main-general-v08|1IxYjMxb1DU9Q9s4FFW5DX,nds-main-general-v08,1IxYjMxb1DU9Q9s4FFW5DX,3103,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.10,0. Story,3,,True
+nds-main-general-v08|3oe5vebWz3qA1Oj11KaIpf,nds-main-general-v08,3oe5vebWz3qA1Oj11KaIpf,3156,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.9,0. Story,3,,True
+nds-main-general-v08|0tfaFBMt1FXBL2yNIe5be4,nds-main-general-v08,0tfaFBMt1FXBL2yNIe5be4,3170,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.3,0. Story,3,,True
+nds-main-general-v08|0rIn9Q6Fb6IwBVa2d89pxb,nds-main-general-v08,0rIn9Q6Fb6IwBVa2d89pxb,3167,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.10,0. Story,5,,True
+nds-main-general-v08|08cLLCHyz7sBXgm4z1$819,nds-main-general-v08,08cLLCHyz7sBXgm4z1$819,3191,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.5,0. Story,5,,True
+nds-main-general-v08|1$_4RPxob3nRPdInDuf6xn,nds-main-general-v08,1$_4RPxob3nRPdInDuf6xn,3185,IfcSpace,RETAIL,,,,Retail,RETAIL,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.1,0. Story,1,,True
+nds-main-general-v08|2ymkhxbe1DggvepdSM_x_p,nds-main-general-v08,2ymkhxbe1DggvepdSM_x_p,3180,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.14,0. Story,3,,True
+nds-main-general-v08|1Ry$y4rML5geoYAiaPPt6i,nds-main-general-v08,1Ry$y4rML5geoYAiaPPt6i,3177,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.13,0. Story,3,,True
+nds-main-general-v08|3EN$a2sfvBoReJZAXzAbFP,nds-main-general-v08,3EN$a2sfvBoReJZAXzAbFP,3206,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,6,,True
+nds-main-general-v08|3EPtpxm6HCW9BozS$ln7SK,nds-main-general-v08,3EPtpxm6HCW9BozS$ln7SK,3203,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.14,0. Story,5,,True
+nds-main-general-v08|3irxQnNZnEv8i0D1jf2gO$,nds-main-general-v08,3irxQnNZnEv8i0D1jf2gO$,3183,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.15,0. Story,3,,True
+nds-main-general-v08|0QYeqNyWH83PDqPDql_udZ,nds-main-general-v08,0QYeqNyWH83PDqPDql_udZ,3193,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.5,0. Story,4,,True
+nds-main-general-v08|0sbBpbXqP0lhhmmAksoPk9,nds-main-general-v08,0sbBpbXqP0lhhmmAksoPk9,3219,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.6,0. Story,3,,True
+nds-main-general-v08|0K8BoirzvESwoLkv3yZclk,nds-main-general-v08,0K8BoirzvESwoLkv3yZclk,3215,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.5,0. Story,4,,True
+nds-main-general-v08|39AtUZH092BRvAdcyu36Q4,nds-main-general-v08,39AtUZH092BRvAdcyu36Q4,3212,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.5,0. Story,3,,True
+nds-main-general-v08|3b5iJpFHHF2Py7KkXv3YiQ,nds-main-general-v08,3b5iJpFHHF2Py7KkXv3YiQ,3198,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.9,0. Story,6,,True
+nds-main-general-v08|2$GdW9MA97juSkYXdAEuRb,nds-main-general-v08,2$GdW9MA97juSkYXdAEuRb,3209,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.9,0. Story,5,,True
+nds-main-general-v08|04so5d4J1ElvGFQRgxtF3b,nds-main-general-v08,04so5d4J1ElvGFQRgxtF3b,3225,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.8,0. Story,4,,True
+nds-main-general-v08|3G9M6O3A19Mx$eLe0GEDsM,nds-main-general-v08,3G9M6O3A19Mx$eLe0GEDsM,3214,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,6,,True
+nds-main-general-v08|263gE2QQD8Pey54xk50oC5,nds-main-general-v08,263gE2QQD8Pey54xk50oC5,3228,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.9,0. Story,2,,True
+nds-main-general-v08|2kllSLQRj6MhGrKPEnzNfJ,nds-main-general-v08,2kllSLQRj6MhGrKPEnzNfJ,3174,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.9,0. Story,4,,True
+nds-main-general-v08|3VFLx1ULrCuOcAdGnrggma,nds-main-general-v08,3VFLx1ULrCuOcAdGnrggma,3222,IfcSpace,RETAIL,,,,Retail,RETAIL,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.7,0. Story,1,,True
+nds-main-general-v08|2oGH5Gpzr89AcnFSafcN_X,nds-main-general-v08,2oGH5Gpzr89AcnFSafcN_X,3232,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.9,0. Story,3,,True
+nds-main-general-v08|0ExvKtupT6w8ljOFK7o$qf,nds-main-general-v08,0ExvKtupT6w8ljOFK7o$qf,3241,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.7,0. Story,3,,True
+nds-main-general-v08|2gqVWNp6XCPwarxGhVR1D_,nds-main-general-v08,2gqVWNp6XCPwarxGhVR1D_,3237,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.8,0. Story,4,,True
+nds-main-general-v08|1MU25A7eX1Kvgz$Gfs__dg,nds-main-general-v08,1MU25A7eX1Kvgz$Gfs__dg,3235,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.4,0. Story,4,,True
+nds-main-general-v08|2PXMY1WKHCwPTUdLKkYRpV,nds-main-general-v08,2PXMY1WKHCwPTUdLKkYRpV,3240,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.1,0. Story,3,,True
+nds-main-general-v08|0zAFNBQ_n3jOyOW1MyAUaV,nds-main-general-v08,0zAFNBQ_n3jOyOW1MyAUaV,3263,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.15,0. Story,4,,True
+nds-main-general-v08|0ABbJwNWnAwv0C_mKPWzqd,nds-main-general-v08,0ABbJwNWnAwv0C_mKPWzqd,3260,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.14,0. Story,4,,True
+nds-main-general-v08|2PEWWCThjEEB4C2eAM26hF,nds-main-general-v08,2PEWWCThjEEB4C2eAM26hF,3257,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.13,0. Story,4,,True
+nds-main-general-v08|0PuXxBAR18eubnBXKhIVGR,nds-main-general-v08,0PuXxBAR18eubnBXKhIVGR,3254,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.4,0. Story,6,,True
+nds-main-general-v08|3H2$74ptbEUAjBPLfBGPu3,nds-main-general-v08,3H2$74ptbEUAjBPLfBGPu3,3277,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.2,0. Story,4,,True
+nds-main-general-v08|1Hlr4Dtnz3RO68fwXKgqT2,nds-main-general-v08,1Hlr4Dtnz3RO68fwXKgqT2,3274,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.13,0. Story,5,,True
+nds-main-general-v08|2AOOw8OYfEOuNq1fqhtcBp,nds-main-general-v08,2AOOw8OYfEOuNq1fqhtcBp,3268,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.6,0. Story,4,,True
+nds-main-general-v08|1pXd7OUBD33eMud9Q1D3Wt,nds-main-general-v08,1pXd7OUBD33eMud9Q1D3Wt,3271,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.8,0. Story,3,,True
+nds-main-general-v08|2TKMCH74P0rAWiY0qX5pjG,nds-main-general-v08,2TKMCH74P0rAWiY0qX5pjG,3290,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.9,0. Story,6,,True
+nds-main-general-v08|1FUQ1nMnn4XeDjTD5FOCOD,nds-main-general-v08,1FUQ1nMnn4XeDjTD5FOCOD,3286,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.1,0. Story,6,,True
+nds-main-general-v08|3UarSWUwr75g5YgGCfsuz9,nds-main-general-v08,3UarSWUwr75g5YgGCfsuz9,3283,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.4,0. Story,1,,True
+nds-main-general-v08|3m8wwSfaL4b9LrdlfyViG2,nds-main-general-v08,3m8wwSfaL4b9LrdlfyViG2,3280,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.1,0. Story,6,,True
+nds-main-general-v08|0T8$VTeSLApRB6HWAVmMxf,nds-main-general-v08,0T8$VTeSLApRB6HWAVmMxf,3246,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.9,0. Story,5,,True
+nds-main-general-v08|1Jg3aWRML2CRZczYmTWsBt,nds-main-general-v08,1Jg3aWRML2CRZczYmTWsBt,3293,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.4,0. Story,1,,True
+nds-main-general-v08|1qlez8tuj8du3Ob$nANCrg,nds-main-general-v08,1qlez8tuj8du3Ob$nANCrg,3305,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.4,0. Story,3,,True
+nds-main-general-v08|0K2DEzUu1D_uvV1nnX1xUI,nds-main-general-v08,0K2DEzUu1D_uvV1nnX1xUI,3302,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.1,0. Story,2,,True
+nds-main-general-v08|30vNTydj93zhOG9w$66f0b,nds-main-general-v08,30vNTydj93zhOG9w$66f0b,3311,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.12,0. Story,3,,True
+nds-main-general-v08|2cSSAEzs93TAk6IQBzmmnT,nds-main-general-v08,2cSSAEzs93TAk6IQBzmmnT,3308,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.10,0. Story,4,,True
+nds-main-general-v08|0nzrFfazT5ix_NG9Lbebu8,nds-main-general-v08,0nzrFfazT5ix_NG9Lbebu8,3299,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.9,0. Story,4,,True
+nds-main-general-v08|2thPeQ4m1CHfMF8wVwUKVg,nds-main-general-v08,2thPeQ4m1CHfMF8wVwUKVg,3314,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.3,0. Story,3,,True
+nds-main-general-v08|1p7XC_czLCUOmai7gQW4le,nds-main-general-v08,1p7XC_czLCUOmai7gQW4le,3317,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.2,0. Story,4,,True
+nds-main-general-v08|0K4LQ2PzH7ceT7OhqcC$6p,nds-main-general-v08,0K4LQ2PzH7ceT7OhqcC$6p,3323,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.4,0. Story,3,,True
+nds-main-general-v08|1b1EDLvHb07ebb7wTRg6il,nds-main-general-v08,1b1EDLvHb07ebb7wTRg6il,3320,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.6,0. Story,5,,True
+nds-main-general-v08|1HHTNTwjT3KxonkWOJFTs9,nds-main-general-v08,1HHTNTwjT3KxonkWOJFTs9,3326,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.2,0. Story,3,,True
+nds-main-general-v08|0TOFO1hwLDSAB8BfExR1fQ,nds-main-general-v08,0TOFO1hwLDSAB8BfExR1fQ,3329,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.5,0. Story,6,,True
+nds-main-general-v08|0fg8SGAsX6xAtCsPi5CVWF,nds-main-general-v08,0fg8SGAsX6xAtCsPi5CVWF,3332,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.3,0. Story,5,,True
+nds-main-general-v08|0DWK2Cuq19SgS9wAsQiCk4,nds-main-general-v08,0DWK2Cuq19SgS9wAsQiCk4,3337,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.12,0. Story,5,,True
+nds-main-general-v08|3$3xPnux5CCuX4Z5zzx6Y8,nds-main-general-v08,3$3xPnux5CCuX4Z5zzx6Y8,3340,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.3,0. Story,4,,True
+nds-main-general-v08|0rbnoDYwnCFOJsQSFEzqCi,nds-main-general-v08,0rbnoDYwnCFOJsQSFEzqCi,3346,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.7,0. Story,4,,True
+nds-main-general-v08|3S6kLkslLEhgnl0hWeMK1s,nds-main-general-v08,3S6kLkslLEhgnl0hWeMK1s,3355,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.6,0. Story,4,,True
+nds-main-general-v08|23v92PQgX6tgSi7rbkmMSB,nds-main-general-v08,23v92PQgX6tgSi7rbkmMSB,3343,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.8,0. Story,6,,True
+nds-main-general-v08|2x$eml8gfF$9U9a5LkoceZ,nds-main-general-v08,2x$eml8gfF$9U9a5LkoceZ,3349,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.6,0. Story,6,,True
+nds-main-general-v08|2qpLPF_Yr6gvN3DonGowXO,nds-main-general-v08,2qpLPF_Yr6gvN3DonGowXO,3361,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.7,0. Story,5,,True
+nds-main-general-v08|3h7oTX7Tj1rOO3j6Kxo7t2,nds-main-general-v08,3h7oTX7Tj1rOO3j6Kxo7t2,3358,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.1,0. Story,4,,True
+nds-main-general-v08|3kMTRUQmH1_8h_7FHJr1MP,nds-main-general-v08,3kMTRUQmH1_8h_7FHJr1MP,3364,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,3,,True
+nds-main-general-v08|2vRz69sTT3vP1ZNqyF22Zf,nds-main-general-v08,2vRz69sTT3vP1ZNqyF22Zf,3367,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,1,,True
+nds-main-general-v08|2TmQnZnUv3DfXmC$Ahaq95,nds-main-general-v08,2TmQnZnUv3DfXmC$Ahaq95,3370,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G.1.1,0. Story,1,,True
+nds-main-general-v08|2pCsvthjX5K8B57mBxbZCT,nds-main-general-v08,2pCsvthjX5K8B57mBxbZCT,3376,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.3,0. Story,1,,True
+nds-main-general-v08|20_gX7iEHBL9OgkIVr88K8,nds-main-general-v08,20_gX7iEHBL9OgkIVr88K8,3379,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.7,0. Story,4,,True
+nds-main-general-v08|2LyjOP2k9BMxnor5VeUzus,nds-main-general-v08,2LyjOP2k9BMxnor5VeUzus,3382,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,5,,True
+nds-main-general-v08|2hbocmNWH7z8MH_IQNjark,nds-main-general-v08,2hbocmNWH7z8MH_IQNjark,3385,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.5,0. Story,4,,True
+nds-main-general-v08|1yF$08nBbDmu9EuxORQMsg,nds-main-general-v08,1yF$08nBbDmu9EuxORQMsg,3388,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.8,0. Story,4,,True
+nds-main-general-v08|1kYxFOWlv7Nh8ynDumgvD2,nds-main-general-v08,1kYxFOWlv7Nh8ynDumgvD2,3391,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.2,0. Story,4,,True
+nds-main-general-v08|1KapD$GL9DLg3bk39myrOa,nds-main-general-v08,1KapD$GL9DLg3bk39myrOa,3394,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.7,0. Story,3,,True
+nds-main-general-v08|2hMVb_cyP7XQqgzgQiFOX4,nds-main-general-v08,2hMVb_cyP7XQqgzgQiFOX4,3397,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.4,0. Story,4,,True
+nds-main-general-v08|2iwpPkjan0yRWwZP$9X7Cr,nds-main-general-v08,2iwpPkjan0yRWwZP$9X7Cr,3398,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.3,0. Story,3,,True
+nds-main-general-v08|2U03AQPWzEwPviwRiPs3NL,nds-main-general-v08,2U03AQPWzEwPviwRiPs3NL,3401,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.6,0. Story,5,,True
+nds-main-general-v08|3ujAbnDsL8G9mhlm4cprOQ,nds-main-general-v08,3ujAbnDsL8G9mhlm4cprOQ,3402,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.12,0. Story,4,,True
+nds-main-general-v08|28kDAyv8fEURjH$jfwy75X,nds-main-general-v08,28kDAyv8fEURjH$jfwy75X,3373,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.2,0. Story,1,,True
+nds-main-general-v08|3uxjPv26b8jQHyBmNin3OA,nds-main-general-v08,3uxjPv26b8jQHyBmNin3OA,3409,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,3,,True
+nds-main-general-v08|2kovuqDLPDEgDpHxxBOKHV,nds-main-general-v08,2kovuqDLPDEgDpHxxBOKHV,3414,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G.1.1,0. Story,1,,True
+nds-main-general-v08|2o5WSLufDDa90vQFpLg8kt,nds-main-general-v08,2o5WSLufDDa90vQFpLg8kt,3415,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.2,0. Story,2,,True
+nds-main-general-v08|3mc9EH4ur99gPPWsSFt0g9,nds-main-general-v08,3mc9EH4ur99gPPWsSFt0g9,3411,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,2,,True
+nds-main-general-v08|0zEJ56c9X4cPj3k1UurEhj,nds-main-general-v08,0zEJ56c9X4cPj3k1UurEhj,3418,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.3,0. Story,2,,True
+nds-main-general-v08|3UznJkHf14tQZzvXDYdEAk,nds-main-general-v08,3UznJkHf14tQZzvXDYdEAk,3421,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,3,,True
+nds-main-general-v08|32$vNL9iDBrhQiMPHTxogk,nds-main-general-v08,32$vNL9iDBrhQiMPHTxogk,3427,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.2,0. Story,3,,True
+nds-main-general-v08|18$37QEb91$hvj7PjW76fV,nds-main-general-v08,18$37QEb91$hvj7PjW76fV,3429,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.1,0. Story,4,,True
+nds-main-general-v08|1qq8JJXtz9RBLALWpaohtE,nds-main-general-v08,1qq8JJXtz9RBLALWpaohtE,3432,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,4,,True
+nds-main-general-v08|0mVbycGHf4suSrnECoJECB,nds-main-general-v08,0mVbycGHf4suSrnECoJECB,3424,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G.1.1,0. Story,1,,True
+nds-main-general-v08|0E4OhjuK9FPAEhZiANY1eG,nds-main-general-v08,0E4OhjuK9FPAEhZiANY1eG,3435,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.3,0. Story,3,,True
+nds-main-general-v08|1bOBec$Sb6x8HjsbJys6hl,nds-main-general-v08,1bOBec$Sb6x8HjsbJys6hl,3436,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G.1.1,0. Story,2,,True
+nds-main-general-v08|2XbJhuwHTCwRTn4npPssqv,nds-main-general-v08,2XbJhuwHTCwRTn4npPssqv,3445,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,5,,True
+nds-main-general-v08|0jLZIXhe14NQ5g_tIoR$$M,nds-main-general-v08,0jLZIXhe14NQ5g_tIoR$$M,3442,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.3,0. Story,4,,True
+nds-main-general-v08|1Fa7ri7cfBY8uxV61lnmCf,nds-main-general-v08,1Fa7ri7cfBY8uxV61lnmCf,3459,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.3,0. Story,6,,True
+nds-main-general-v08|1GDd$d1kL9jfaqx1S7ZpLn,nds-main-general-v08,1GDd$d1kL9jfaqx1S7ZpLn,3437,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.2,0. Story,4,,True
+nds-main-general-v08|3kOE$PJUn9AwDH1ux6WyF7,nds-main-general-v08,3kOE$PJUn9AwDH1ux6WyF7,3450,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.3,0. Story,5,,True
+nds-main-general-v08|3Qo2oCZYHDsOY3feHkMZzr,nds-main-general-v08,3Qo2oCZYHDsOY3feHkMZzr,3474,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.3,0. Story,4,,True
+nds-main-general-v08|14W3iw3kb9MuGGhAFYm5rG,nds-main-general-v08,14W3iw3kb9MuGGhAFYm5rG,3453,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.2,0. Story,1,,True
+nds-main-general-v08|3PtmDDmY98qPzusPmfeswP,nds-main-general-v08,3PtmDDmY98qPzusPmfeswP,3468,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.4,0. Story,7,,True
+nds-main-general-v08|0j$td9aCvFROp8yuJBdWBt,nds-main-general-v08,0j$td9aCvFROp8yuJBdWBt,3465,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G.1.1,0. Story,4,,True
+nds-main-general-v08|2a1hOv3$L6WuwyVbUDkcc5,nds-main-general-v08,2a1hOv3$L6WuwyVbUDkcc5,3462,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,6,,True
+nds-main-general-v08|047gVLZhb2HAZV8agg6FYZ,nds-main-general-v08,047gVLZhb2HAZV8agg6FYZ,3486,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.7,0. Story,2,,True
+nds-main-general-v08|0ZdHBpG8j3Ou7bYzhJb8sP,nds-main-general-v08,0ZdHBpG8j3Ou7bYzhJb8sP,3480,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,2,,True
+nds-main-general-v08|1hGwkZqLT3_hLkzVOAHm3Q,nds-main-general-v08,1hGwkZqLT3_hLkzVOAHm3Q,3483,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.7,0. Story,2,,True
+nds-main-general-v08|2osRl1gaDEOwBMiU8coZli,nds-main-general-v08,2osRl1gaDEOwBMiU8coZli,3477,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,7,,True
+nds-main-general-v08|1bjiwd14123A$69VI1O_Vy,nds-main-general-v08,1bjiwd14123A$69VI1O_Vy,3471,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.3,0. Story,2,,True
+nds-main-general-v08|0Ir4AnKJ97WfwF3eN9VeCn,nds-main-general-v08,0Ir4AnKJ97WfwF3eN9VeCn,3505,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.1,0. Story,4,,True
+nds-main-general-v08|1xLCbCnFH2vuig7Fjzwz6l,nds-main-general-v08,1xLCbCnFH2vuig7Fjzwz6l,3498,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.7,0. Story,4,,True
+nds-main-general-v08|2y1$0WONf6yhEYMD1KL6vK,nds-main-general-v08,2y1$0WONf6yhEYMD1KL6vK,3497,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.3,0. Story,2,,True
+nds-main-general-v08|3Zu4WqdIbA2uqGx2s3Bo_S,nds-main-general-v08,3Zu4WqdIbA2uqGx2s3Bo_S,3492,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.6,0. Story,2,,True
+nds-main-general-v08|35SjfOYPDFWgPAJwTc_xMy,nds-main-general-v08,35SjfOYPDFWgPAJwTc_xMy,3508,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.4,0. Story,3,,True
+nds-main-general-v08|0KMH9ev5b1ahJNfmKwRgZQ,nds-main-general-v08,0KMH9ev5b1ahJNfmKwRgZQ,3515,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.8,0. Story,5,,True
+nds-main-general-v08|3JlyFIh2XFN9K9cu7jcCqw,nds-main-general-v08,3JlyFIh2XFN9K9cu7jcCqw,3512,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.2,0. Story,2,,True
+nds-main-general-v08|24CdF1E0HCX9jz737Y3XLx,nds-main-general-v08,24CdF1E0HCX9jz737Y3XLx,3511,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,7,,True
+nds-main-general-v08|1DzUHnl6rCYBV$BFEh_95P,nds-main-general-v08,1DzUHnl6rCYBV$BFEh_95P,3489,IfcSpace,VZDĚLÁVÁNÍ A KULTURA,,,,Vzdělávání a kultura,VZDĚLÁVÁNÍ A KULTURA,G,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,G.1.1,0. Story,3,,True
+nds-main-general-v08|2v4vO8QYzB$8DGu0gaCqzp,nds-main-general-v08,2v4vO8QYzB$8DGu0gaCqzp,3536,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.7,0. Story,4,,True
+nds-main-general-v08|2pLWnBwiD4JhfZ0TDRmCk7,nds-main-general-v08,2pLWnBwiD4JhfZ0TDRmCk7,3539,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.4,0. Story,4,,True
+nds-main-general-v08|0R0tZZKvnBzORH_Uq0d_jK,nds-main-general-v08,0R0tZZKvnBzORH_Uq0d_jK,3528,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,4,,True
+nds-main-general-v08|05mnYhNz14o8AkAgyigLG_,nds-main-general-v08,05mnYhNz14o8AkAgyigLG_,3531,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.10,0. Story,3,,True
+nds-main-general-v08|3GA1lXzEL5MRKLmkGVdrlZ,nds-main-general-v08,3GA1lXzEL5MRKLmkGVdrlZ,3527,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.1,0. Story,4,,True
+nds-main-general-v08|3wVR_mtbHBJgAg1qpuOWK6,nds-main-general-v08,3wVR_mtbHBJgAg1qpuOWK6,3352,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.4,0. Story,5,,True
+nds-main-general-v08|1Tndq09hP94OjsSKTRjtY1,nds-main-general-v08,1Tndq09hP94OjsSKTRjtY1,3526,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.8,0. Story,4,,True
+nds-main-general-v08|1UXV6kA3jBsROsODkeYdmi,nds-main-general-v08,1UXV6kA3jBsROsODkeYdmi,3516,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.3,0. Story,4,,True
+nds-main-general-v08|2yhN42EZf2UPJ3WiAKrNiz,nds-main-general-v08,2yhN42EZf2UPJ3WiAKrNiz,3542,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.1,0. Story,5,,True
+nds-main-general-v08|2n$Lso4NrB7Qa5tNwpHovm,nds-main-general-v08,2n$Lso4NrB7Qa5tNwpHovm,3550,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.2,0. Story,4,,True
+nds-main-general-v08|10TLy438z1g9Rr0Pg2FXcy,nds-main-general-v08,10TLy438z1g9Rr0Pg2FXcy,3545,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.8,0. Story,8,,True
+nds-main-general-v08|21pIJmWOX0OfTFtddMoTaJ,nds-main-general-v08,21pIJmWOX0OfTFtddMoTaJ,3569,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,2,,True
+nds-main-general-v08|0JxKpVA5P13QkIwtMEwBMZ,nds-main-general-v08,0JxKpVA5P13QkIwtMEwBMZ,3566,IfcSpace,RETAIL,,,,Retail,RETAIL,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,1,,True
+nds-main-general-v08|1jL4kIRGPCkfBcfxUKPzoC,nds-main-general-v08,1jL4kIRGPCkfBcfxUKPzoC,3565,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.1,0. Story,2,,True
+nds-main-general-v08|3tcX$Ld_X6KOkDvpCcTjfr,nds-main-general-v08,3tcX$Ld_X6KOkDvpCcTjfr,3556,IfcSpace,RETAIL,,,,Retail,RETAIL,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.8,0. Story,1,,True
+nds-main-general-v08|2Ly9$WNVHAJQtUkm4g8nMK,nds-main-general-v08,2Ly9$WNVHAJQtUkm4g8nMK,3557,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.2,0. Story,5,,True
+nds-main-general-v08|1huYWFcy128BUHznMnDsTg,nds-main-general-v08,1huYWFcy128BUHznMnDsTg,3553,IfcSpace,RETAIL,,,,Retail,RETAIL,I,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.9,0. Story,1,,True
+nds-main-general-v08|0STW0DokL1iwjrDtA9SZsF,nds-main-general-v08,0STW0DokL1iwjrDtA9SZsF,3572,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,2,,True
+nds-main-general-v08|0nput6M8zAvPXYVHZ9gqrV,nds-main-general-v08,0nput6M8zAvPXYVHZ9gqrV,3590,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.11,0. Story,5,,True
+nds-main-general-v08|2Jnni41HbEBOmSSGaEDKSE,nds-main-general-v08,2Jnni41HbEBOmSSGaEDKSE,3604,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,2,,True
+nds-main-general-v08|2fcB$4vu9CVuNrF1W64FSq,nds-main-general-v08,2fcB$4vu9CVuNrF1W64FSq,3614,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,2,,True
+nds-main-general-v08|0vQYGq2IbNJgeVCUp_URIX,nds-main-general-v08,0vQYGq2IbNJgeVCUp_URIX,3652,IfcSpace,PARKOVÁNÍ,,,,Parkování,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,6,,True
+nds-main-general-v08|1YTl2QrRYrHB4MnkGJHW6O,nds-main-general-v08,1YTl2QrRYrHB4MnkGJHW6O,3656,IfcSpace,PARKOVÁNÍ,,,,Parkování,PARKOVÁNÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,7,,True
+nds-main-general-v08|1EtfQ2aW9BWvKr2L9FFSPA,nds-main-general-v08,1EtfQ2aW9BWvKr2L9FFSPA,3657,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,8,,True
+nds-main-general-v08|193tDWeovDex7qh9HkBPfN,nds-main-general-v08,193tDWeovDex7qh9HkBPfN,3562,IfcSpace,RETAIL,,,,Retail,RETAIL,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,1,,True
+nds-main-general-v08|2zq06ekffD691WjFSH9Z1u,nds-main-general-v08,2zq06ekffD691WjFSH9Z1u,3665,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.4,0. Story,1,,True
+nds-main-general-v08|1su$8TkkH7vBjNHS76lEvf,nds-main-general-v08,1su$8TkkH7vBjNHS76lEvf,3662,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.3,0. Story,1,,True
+nds-main-general-v08|2NLBaOPLD5DwfVC7kem18m,nds-main-general-v08,2NLBaOPLD5DwfVC7kem18m,3677,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.6,0. Story,1,,True
+nds-main-general-v08|11M4765CvFvhTA8b9WRn2i,nds-main-general-v08,11M4765CvFvhTA8b9WRn2i,3674,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.7,0. Story,1,,True
+nds-main-general-v08|09lejJb_v2yP9dDXa8bp$c,nds-main-general-v08,09lejJb_v2yP9dDXa8bp$c,3668,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.8,0. Story,1,,True
+nds-main-general-v08|0lsmOPXBrANw29ZoPMasVP,nds-main-general-v08,0lsmOPXBrANw29ZoPMasVP,3683,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.12,0. Story,1,,True
+nds-main-general-v08|3Ph0Y_Y0b1axOyXDI8aJc2,nds-main-general-v08,3Ph0Y_Y0b1axOyXDI8aJc2,3680,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.1,0. Story,1,,True
+nds-main-general-v08|0byVMogA5EiQ7FMFw34Hci,nds-main-general-v08,0byVMogA5EiQ7FMFw34Hci,3688,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.2,0. Story,1,,True
+nds-main-general-v08|1qz9WZ8Jr7Iu_ssh5dyjnH,nds-main-general-v08,1qz9WZ8Jr7Iu_ssh5dyjnH,3694,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,2,,True
+nds-main-general-v08|3vLnqKEBT1HvoLPn4JDfFf,nds-main-general-v08,3vLnqKEBT1HvoLPn4JDfFf,3697,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.7,0. Story,2,,True
+nds-main-general-v08|3qiJ5UyQ91Vuz9aCRn$Zox,nds-main-general-v08,3qiJ5UyQ91Vuz9aCRn$Zox,3691,IfcSpace,RETAIL,,,,Retail,RETAIL,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.5,0. Story,1,,True
+nds-main-general-v08|0J4ykMU4D9Lwq4sppvzxsX,nds-main-general-v08,0J4ykMU4D9Lwq4sppvzxsX,3700,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.1,0. Story,1,,True
+nds-main-general-v08|3X1SeB3GX6yh5wn4DHLT92,nds-main-general-v08,3X1SeB3GX6yh5wn4DHLT92,3703,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.2,0. Story,1,,True
+nds-main-general-v08|1gXDpLwwX61BVe7vBnzrFf,nds-main-general-v08,1gXDpLwwX61BVe7vBnzrFf,3706,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.3,0. Story,1,,True
+nds-main-general-v08|1yai5i_bz4KwiAQoIw7jVh,nds-main-general-v08,1yai5i_bz4KwiAQoIw7jVh,3712,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.4,0. Story,1,,True
+nds-main-general-v08|1kFsrrwLr818w0R9h8e0gW,nds-main-general-v08,1kFsrrwLr818w0R9h8e0gW,3715,IfcSpace,RETAIL,,,,Retail,RETAIL,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.5,0. Story,1,,True
+nds-main-general-v08|1c_3dlqtn4uO9_KzjSoCV_,nds-main-general-v08,1c_3dlqtn4uO9_KzjSoCV_,3718,IfcSpace,RETAIL,,,,Retail,RETAIL,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.10,0. Story,1,,True
+nds-main-general-v08|03hOZFPADD2Bgr6tsjWpF$,nds-main-general-v08,03hOZFPADD2Bgr6tsjWpF$,3723,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.5,0. Story,3,,True
+nds-main-general-v08|083rs6Ng193B_bwPUIO7Jv,nds-main-general-v08,083rs6Ng193B_bwPUIO7Jv,3727,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.2,0. Story,1,,True
+nds-main-general-v08|00uYAWMVzAleHM1P31Ns__,nds-main-general-v08,00uYAWMVzAleHM1P31Ns__,3732,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.3,0. Story,3,,True
+nds-main-general-v08|1BQgVuUwL8nOFD6HYNWf_b,nds-main-general-v08,1BQgVuUwL8nOFD6HYNWf_b,3735,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.9,0. Story,1,,True
+nds-main-general-v08|0Xk1SWY1L0HgsHKQrX8xh6,nds-main-general-v08,0Xk1SWY1L0HgsHKQrX8xh6,3737,IfcSpace,RETAIL,,,,Retail,RETAIL,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.8,0. Story,1,,True
+nds-main-general-v08|3KBSvR6VbBtwgvpamy0s5N,nds-main-general-v08,3KBSvR6VbBtwgvpamy0s5N,3743,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.7,0. Story,1,,True
+nds-main-general-v08|1d_B1AcUv3Ju1hvK02Wv$e,nds-main-general-v08,1d_B1AcUv3Ju1hvK02Wv$e,3747,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.7,0. Story,1,,True
+nds-main-general-v08|0nYaOJRQz329tJJsjbs5xc,nds-main-general-v08,0nYaOJRQz329tJJsjbs5xc,3744,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.4,0. Story,2,,True
+nds-main-general-v08|0fLKwiW_L96xIAGVDvGdfe,nds-main-general-v08,0fLKwiW_L96xIAGVDvGdfe,3750,IfcSpace,RETAIL,,,,Retail,RETAIL,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,1,,True
+nds-main-general-v08|1$5AqWANr7fvMuGQXLszWv,nds-main-general-v08,1$5AqWANr7fvMuGQXLszWv,3753,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.10,0. Story,5,,True
+nds-main-general-v08|2jJ3EEQ6L9$gZYZ38wipp3,nds-main-general-v08,2jJ3EEQ6L9$gZYZ38wipp3,3754,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.6,0. Story,1,,True
+nds-main-general-v08|3UWvtATTD1fw$D9jnzAfGD,nds-main-general-v08,3UWvtATTD1fw$D9jnzAfGD,3757,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.2,0. Story,3,,True
+nds-main-general-v08|1aZa6W3ArACvxk_7g$jhw_,nds-main-general-v08,1aZa6W3ArACvxk_7g$jhw_,3760,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.1,0. Story,1,,True
+nds-main-general-v08|0bXGDRCorBQuycFLJmfiKg,nds-main-general-v08,0bXGDRCorBQuycFLJmfiKg,3763,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.11,0. Story,3,,True
+nds-main-general-v08|371sw3EEr5POf7MPqCVB$n,nds-main-general-v08,371sw3EEr5POf7MPqCVB$n,3766,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.11,0. Story,4,,True
+nds-main-general-v08|277u8EcZj8yuHoCX9xJPhV,nds-main-general-v08,277u8EcZj8yuHoCX9xJPhV,3767,IfcSpace,RETAIL,,,,Retail,RETAIL,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.3,0. Story,1,,True
+nds-main-general-v08|1V4RbldKv9IuYpoOjBWAGt,nds-main-general-v08,1V4RbldKv9IuYpoOjBWAGt,3772,IfcSpace,RETAIL,,,,Retail,RETAIL,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.1,0. Story,1,,True
+nds-main-general-v08|2zoMggaFfBZf1x99nH5GGi,nds-main-general-v08,2zoMggaFfBZf1x99nH5GGi,3775,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.2,0. Story,1,,True
+nds-main-general-v08|3oOyhkxtn6x9q9caUHpC80,nds-main-general-v08,3oOyhkxtn6x9q9caUHpC80,3780,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.11,0. Story,2,,True
+nds-main-general-v08|2PwTqiSoL5su3y57hLQZW1,nds-main-general-v08,2PwTqiSoL5su3y57hLQZW1,3523,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.1,0. Story,3,,True
+nds-main-general-v08|18eHZ7lJX8COxCTCtU0QvW,nds-main-general-v08,18eHZ7lJX8COxCTCtU0QvW,3781,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.3,0. Story,2,,True
+nds-main-general-v08|2UupZNYPbDZvM3azkUYITk,nds-main-general-v08,2UupZNYPbDZvM3azkUYITk,3784,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.8,0. Story,2,,True
+nds-main-general-v08|17FnJqtsv60gZhJuHwUvOM,nds-main-general-v08,17FnJqtsv60gZhJuHwUvOM,3787,IfcSpace,RETAIL,,,,Retail,RETAIL,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.3,0. Story,1,,True
+nds-main-general-v08|21C7fQ1j11F8PbmUlFmDp1,nds-main-general-v08,21C7fQ1j11F8PbmUlFmDp1,3790,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.7,0. Story,2,,True
+nds-main-general-v08|0lFol4qvD8iQmVoDfopnQ8,nds-main-general-v08,0lFol4qvD8iQmVoDfopnQ8,3793,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.6,0. Story,2,,True
+nds-main-general-v08|3PO_Gv7UD7ugm6j7bGFooW,nds-main-general-v08,3PO_Gv7UD7ugm6j7bGFooW,3794,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.4,0. Story,2,,True
+nds-main-general-v08|1S9SpOjvf6IA6w5OofgzwB,nds-main-general-v08,1S9SpOjvf6IA6w5OofgzwB,3795,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.1,0. Story,2,,True
+nds-main-general-v08|0R$Mx6GAD1jA9XjH4UEDRs,nds-main-general-v08,0R$Mx6GAD1jA9XjH4UEDRs,3800,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.1,0. Story,3,,True
+nds-main-general-v08|0cxpc0YcDDWuiXaOshxq_i,nds-main-general-v08,0cxpc0YcDDWuiXaOshxq_i,3801,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.12,0. Story,2,,True
+nds-main-general-v08|0dc$AE1092SOt7wWRTBO91,nds-main-general-v08,0dc$AE1092SOt7wWRTBO91,3804,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.2,0. Story,2,,True
+nds-main-general-v08|1i7U910nH0cfS6jRtLsWPZ,nds-main-general-v08,1i7U910nH0cfS6jRtLsWPZ,3807,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.5,0. Story,2,,True
+nds-main-general-v08|1a082F_Tv91QeEbn9Xqixc,nds-main-general-v08,1a082F_Tv91QeEbn9Xqixc,3810,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,3,,True
+nds-main-general-v08|1cudMobPb8ygHCbU5T9Ppk,nds-main-general-v08,1cudMobPb8ygHCbU5T9Ppk,3817,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.1,0. Story,2,,True
+nds-main-general-v08|3hSHIN7rb6FuBoD709JJ0O,nds-main-general-v08,3hSHIN7rb6FuBoD709JJ0O,3823,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.4,0. Story,2,,True
+nds-main-general-v08|3zF09blOf2wApKk12$32Bc,nds-main-general-v08,3zF09blOf2wApKk12$32Bc,3828,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.10,0. Story,2,,True
+nds-main-general-v08|2QH7BwkFDCFQieml_cE3_m,nds-main-general-v08,2QH7BwkFDCFQieml_cE3_m,3818,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.2,0. Story,2,,True
+nds-main-general-v08|3d73muhSDCOwiI5ORXBqBk,nds-main-general-v08,3d73muhSDCOwiI5ORXBqBk,3836,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.8,0. Story,2,,True
+nds-main-general-v08|25xbePyXj4vuLCYPYD6VwF,nds-main-general-v08,25xbePyXj4vuLCYPYD6VwF,3835,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.7,0. Story,3,,True
+nds-main-general-v08|0timb2w2jCaOSCqdCwPY82,nds-main-general-v08,0timb2w2jCaOSCqdCwPY82,3832,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.2,0. Story,3,,True
+nds-main-general-v08|3X0c7nuevDdOeaTzJZ30kH,nds-main-general-v08,3X0c7nuevDdOeaTzJZ30kH,3831,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.5,0. Story,2,,True
+nds-main-general-v08|266ST4R4f258SkGznS3Lgi,nds-main-general-v08,266ST4R4f258SkGznS3Lgi,3841,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.2,0. Story,8,,True
+nds-main-general-v08|3tjz29S7P5ZPOZVD5McMxW,nds-main-general-v08,3tjz29S7P5ZPOZVD5McMxW,3844,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.1,0. Story,5,,True
+nds-main-general-v08|37skF1ql198huN34M_IK4B,nds-main-general-v08,37skF1ql198huN34M_IK4B,3847,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.2,0. Story,5,,True
+nds-main-general-v08|3QXjM7HTf23f1btw82OoPm,nds-main-general-v08,3QXjM7HTf23f1btw82OoPm,3852,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.2,0. Story,4,,True
+nds-main-general-v08|0uMumqsxHE$x9QrQ$wngmS,nds-main-general-v08,0uMumqsxHE$x9QrQ$wngmS,3853,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.5,0. Story,5,,True
+nds-main-general-v08|3kJ9C0PvT2TRLUR98QXb3K,nds-main-general-v08,3kJ9C0PvT2TRLUR98QXb3K,3857,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.3,0. Story,4,,True
+nds-main-general-v08|2iUkAr_XL7Cvo_KXqRk2kn,nds-main-general-v08,2iUkAr_XL7Cvo_KXqRk2kn,3860,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.6,0. Story,5,,True
+nds-main-general-v08|1A$HqmHX17dOreX$sLTTKk,nds-main-general-v08,1A$HqmHX17dOreX$sLTTKk,3864,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.5,0. Story,1,,True
+nds-main-general-v08|23m7jH9ePCrQ$KQlUoMcc4,nds-main-general-v08,23m7jH9ePCrQ$KQlUoMcc4,3870,IfcSpace,RETAIL,,,,Retail,RETAIL,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.5,0. Story,1,,True
+nds-main-general-v08|2sS08tle1BphqiqJl3OdbR,nds-main-general-v08,2sS08tle1BphqiqJl3OdbR,3867,IfcSpace,RETAIL,,,,Retail,RETAIL,E,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,E.3.1,0. Story,1,,True
+nds-main-general-v08|1$fbuWB012fPxspYb0q1Go,nds-main-general-v08,1$fbuWB012fPxspYb0q1Go,3854,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,F,Existing,Etapa 2,00tMo7QcxqWdIGvc4sMN2A,Building,F.2.9,0. Story,4,,True
+nds-main-general-v08|0YWjiHBkHAjOV1ojV0pfiL,nds-main-general-v08,0YWjiHBkHAjOV1ojV0pfiL,3874,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.5,0. Story,4,,True
+nds-main-general-v08|0SetzGlVr9LQpq7rAuMHL7,nds-main-general-v08,0SetzGlVr9LQpq7rAuMHL7,3883,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.7,0. Story,2,,True
+nds-main-general-v08|1ZUBXpwIjFPwXwc_cZVqWz,nds-main-general-v08,1ZUBXpwIjFPwXwc_cZVqWz,3884,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.7,0. Story,3,,True
+nds-main-general-v08|3$rpEsTZDBrh6e6rzl3j1C,nds-main-general-v08,3$rpEsTZDBrh6e6rzl3j1C,3887,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.7,0. Story,4,,True
+nds-main-general-v08|2LFLIN8yXA3ewdrwIlnWXp,nds-main-general-v08,2LFLIN8yXA3ewdrwIlnWXp,3890,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.7,0. Story,5,,True
+nds-main-general-v08|2yI$2Hzqz2y86x8PqNmxoA,nds-main-general-v08,2yI$2Hzqz2y86x8PqNmxoA,3877,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.5,0. Story,3,,True
+nds-main-general-v08|0Wi8n0iAHEkhsqX6AFhnZb,nds-main-general-v08,0Wi8n0iAHEkhsqX6AFhnZb,3896,IfcSpace,RETAIL,,,,Retail,RETAIL,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.7,0. Story,1,,True
+nds-main-general-v08|35Nz20dFHDFgazE28izpQG,nds-main-general-v08,35Nz20dFHDFgazE28izpQG,3899,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.7,0. Story,2,,True
+nds-main-general-v08|1IVYpqy$n7zOaNh0yrviL8,nds-main-general-v08,1IVYpqy$n7zOaNh0yrviL8,3893,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.7,0. Story,6,,True
+nds-main-general-v08|2UUVTkkC1EpxDd6Jhu3Yg2,nds-main-general-v08,2UUVTkkC1EpxDd6Jhu3Yg2,3905,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,1,,True
+nds-main-general-v08|39mNohWxb6txAHDs2rLQnK,nds-main-general-v08,39mNohWxb6txAHDs2rLQnK,3908,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,2,,True
+nds-main-general-v08|1uyQ4pQHHEhwOBW151_zSb,nds-main-general-v08,1uyQ4pQHHEhwOBW151_zSb,3911,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,3,,True
+nds-main-general-v08|0FnrnCvir0c9A5m3PcEQ0h,nds-main-general-v08,0FnrnCvir0c9A5m3PcEQ0h,3902,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.7,0. Story,3,,True
+nds-main-general-v08|2oqZZ0pnb9rPBL8cuhDg3N,nds-main-general-v08,2oqZZ0pnb9rPBL8cuhDg3N,3914,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.3,0. Story,6,,True
+nds-main-general-v08|3ozY3uQQH4ARX4xI3$AhlW,nds-main-general-v08,3ozY3uQQH4ARX4xI3$AhlW,3923,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.7,0. Story,5,,True
+nds-main-general-v08|2TXhxLIkP4vx8temtqPf$f,nds-main-general-v08,2TXhxLIkP4vx8temtqPf$f,3920,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.2,0. Story,6,,True
+nds-main-general-v08|3w5e2mZBL2xvtfqNT154ha,nds-main-general-v08,3w5e2mZBL2xvtfqNT154ha,3917,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,H,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,H.1.2,0. Story,5,,True
+nds-main-general-v08|0nHl4GuRvDf8a7FDYQntum,nds-main-general-v08,0nHl4GuRvDf8a7FDYQntum,3926,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.5,0. Story,2,,True
+nds-main-general-v08|3hzn9vKMXEJh_DokEU$yFv,nds-main-general-v08,3hzn9vKMXEJh_DokEU$yFv,3929,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.5,0. Story,3,,True
+nds-main-general-v08|2NzoBLwlz79eJ_kM0XXFx6,nds-main-general-v08,2NzoBLwlz79eJ_kM0XXFx6,3935,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.5,0. Story,5,,True
+nds-main-general-v08|0H0unRwmLA6OPdZ_CSks$E,nds-main-general-v08,0H0unRwmLA6OPdZ_CSks$E,3941,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.4,0. Story,3,,True
+nds-main-general-v08|29iaT_eU1A7QlvpUrKJlS0,nds-main-general-v08,29iaT_eU1A7QlvpUrKJlS0,3938,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.4,0. Story,2,,True
+nds-main-general-v08|2vArcfdsXCVQ89VjRv$A7D,nds-main-general-v08,2vArcfdsXCVQ89VjRv$A7D,3944,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.4,0. Story,4,,True
+nds-main-general-v08|14y5zjJFn5GQvMRfa8t1w3,nds-main-general-v08,14y5zjJFn5GQvMRfa8t1w3,3949,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.4,0. Story,5,,True
+nds-main-general-v08|1zCYQBuKH2efedFXUUxn4H,nds-main-general-v08,1zCYQBuKH2efedFXUUxn4H,3952,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,B,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,B.3.5,0. Story,5,,True
+nds-main-general-v08|38fRJxj$fA9BQDKegXGS4x,nds-main-general-v08,38fRJxj$fA9BQDKegXGS4x,3932,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,D,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,D.3.5,0. Story,4,,True
+nds-main-general-v08|20XNC0Y2bBfeebdPZuv3AZ,nds-main-general-v08,20XNC0Y2bBfeebdPZuv3AZ,3960,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.8,0. Story,7,,True
+nds-main-general-v08|0FDNLeFmP5EuSZRep90A8l,nds-main-general-v08,0FDNLeFmP5EuSZRep90A8l,3964,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.6,0. Story,7,,True
+nds-main-general-v08|0RqDatkFDElBQNX1Tziw6f,nds-main-general-v08,0RqDatkFDElBQNX1Tziw6f,3963,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,I,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,I.1.7,0. Story,7,,True
+nds-main-general-v08|23LauqRpP9NBMb53GEXT0x,nds-main-general-v08,23LauqRpP9NBMb53GEXT0x,3880,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,C,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,C.3.5,0. Story,2,,True
+nds-main-general-v08|0H8rlh3Yj1zA91nKRSvbO_,nds-main-general-v08,0H8rlh3Yj1zA91nKRSvbO_,3970,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,7,,True
+nds-main-general-v08|2yzwa3m2525QevsQnedzvM,nds-main-general-v08,2yzwa3m2525QevsQnedzvM,3985,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,K,Existing,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,K.1.3,0. Story,6,,True
+nds-main-general-v08|152QBATcX63QZHmP4z3tCt,nds-main-general-v08,152QBATcX63QZHmP4z3tCt,4118,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,2,,True
+nds-main-general-v08|3ya0sKmRHEIPK0QfLIAOL7,nds-main-general-v08,3ya0sKmRHEIPK0QfLIAOL7,4121,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,5,,True
+nds-main-general-v08|3UWP40fnv4Kh$4w12Eskfa,nds-main-general-v08,3UWP40fnv4Kh$4w12Eskfa,4126,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,6,,True
+nds-main-general-v08|0bb4ZM1Tv0jfrfNoG_9JG0,nds-main-general-v08,0bb4ZM1Tv0jfrfNoG_9JG0,4127,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,4,,True
+nds-main-general-v08|07wwVek3nDbh$PQbxcuVZk,nds-main-general-v08,07wwVek3nDbh$PQbxcuVZk,4133,IfcSpace,BYDLENÍ,,,,Bydlení,BYDLENÍ,A,Existing,Etapa 3,00tMo7QcxqWdIGvc4sMN2A,Building,A.3.3,0. Story,2,,True
+nds-main-general-v08|0wJEkKz9177QzAkqomz2x7,nds-main-general-v08,0wJEkKz9177QzAkqomz2x7,4130,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,10,,True
+nds-main-general-v08|3f7yxoTU5E982EkSQjX$fo,nds-main-general-v08,3f7yxoTU5E982EkSQjX$fo,4136,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,5,,True
+nds-main-general-v08|2evAjrOBP6ChKA9dKP_0M8,nds-main-general-v08,2evAjrOBP6ChKA9dKP_0M8,4142,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,5,,True
+nds-main-general-v08|06Ph5blDj8nPnOUwrjGgDF,nds-main-general-v08,06Ph5blDj8nPnOUwrjGgDF,4145,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,4,,True
+nds-main-general-v08|0Y1Qve$_5CxeIv7byUwvF8,nds-main-general-v08,0Y1Qve$_5CxeIv7byUwvF8,4148,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,3,,True
+nds-main-general-v08|1i_NDfhhvCS8O4ZOb67lVK,nds-main-general-v08,1i_NDfhhvCS8O4ZOb67lVK,4151,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,3,,True
+nds-main-general-v08|2BVYOL5hnBSgn6GCI$gb$P,nds-main-general-v08,2BVYOL5hnBSgn6GCI$gb$P,4139,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,3,,True
+nds-main-general-v08|0p3r3b8yT3af_L3sKN54$V,nds-main-general-v08,0p3r3b8yT3af_L3sKN54$V,4157,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,3,,True
+nds-main-general-v08|210TQFPer9gfRu9DgjNGw9,nds-main-general-v08,210TQFPer9gfRu9DgjNGw9,4156,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,9,,True
+nds-main-general-v08|09tYOHcobFb8YJ_D0_cTfw,nds-main-general-v08,09tYOHcobFb8YJ_D0_cTfw,4160,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,7,,True
+nds-main-general-v08|3QVRj4nLn49PwInFbEhBjs,nds-main-general-v08,3QVRj4nLn49PwInFbEhBjs,4172,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,4,,True
+nds-main-general-v08|0rvuzYJbz5bezHEaDkcziR,nds-main-general-v08,0rvuzYJbz5bezHEaDkcziR,4171,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,2,,True
+nds-main-general-v08|23BaSzWW97zPIxak33CrSd,nds-main-general-v08,23BaSzWW97zPIxak33CrSd,4163,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,4,,True
+nds-main-general-v08|3ijoWJf6bF5PL5miYvJF2C,nds-main-general-v08,3ijoWJf6bF5PL5miYvJF2C,4166,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,7,,True
+nds-main-general-v08|0aL85PEBDDDuD$YQseecvi,nds-main-general-v08,0aL85PEBDDDuD$YQseecvi,4175,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,1,,True
+nds-main-general-v08|2oNIP_f85C58N39cc3Ct3N,nds-main-general-v08,2oNIP_f85C58N39cc3Ct3N,4193,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,3,,True
+nds-main-general-v08|0fHCoNymTC8ghgN6UBJAAx,nds-main-general-v08,0fHCoNymTC8ghgN6UBJAAx,3969,IfcSpace,INV,,,,polyfunkční dům 2,INV,J,New,Etapa 1,00tMo7QcxqWdIGvc4sMN2A,Building,J.1.1,0. Story,2,,True
