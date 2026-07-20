@@ -1,0 +1,10 @@
+﻿Attribute,TotalElementCount,PopulatedCount,NullCount,CoveragePercent,ExplicitCount,RelationshipCount,AssumedCount,InferredCount,ComputedCount,CorrectedCount
+Function,672,438,234,65.18,0,438,0,0,0,0
+Block,672,495,177,73.66,0,3,106,386,0,0
+Status,672,522,150,77.68,522,0,0,0,0,0
+Phase,672,438,234,65.18,413,22,3,0,0,0
+BuildingId,672,524,148,77.98,1,523,0,0,0,0
+ArchicadId,672,522,150,77.68,514,0,0,0,0,8
+Storey,672,522,150,77.68,0,522,0,0,0,0
+StoreyCalculated,672,438,234,65.18,0,25,0,413,0,0
+ZPosition,672,522,150,77.68,0,0,0,0,522,0
